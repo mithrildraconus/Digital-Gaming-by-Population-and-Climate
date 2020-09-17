@@ -1,0 +1,2170 @@
+,Month and Year,Total precipitation (inches),Region,Average temperature (°F)
+0,Jan-2000,3.17,Northeast,21.4
+1,Feb-2000,2.92,Northeast,27.2
+2,Mar-2000,3.62,Northeast,39.1
+3,Apr-2000,5.09,Northeast,44.2
+4,May-2000,4.81,Northeast,56.6
+5,Jun-2000,4.68,Northeast,64.5
+6,Jul-2000,4.43,Northeast,65.8
+7,Aug-2000,3.71,Northeast,66.2
+8,Sep-2000,3.6,Northeast,58.9
+9,Oct-2000,2.36,Northeast,49.5
+10,Nov-2000,2.75,Northeast,37.7
+11,Dec-2000,3.67,Northeast,21.3
+12,Jan-2001,1.82,Northeast,22.6
+13,Feb-2001,2.29,Northeast,26.0
+14,Mar-2001,4.9,Northeast,30.2
+15,Apr-2001,1.67,Northeast,45.2
+16,May-2001,2.89,Northeast,57.4
+17,Jun-2001,4.37,Northeast,65.9
+18,Jul-2001,3.06,Northeast,66.7
+19,Aug-2001,2.93,Northeast,70.5
+20,Sep-2001,3.81,Northeast,60.1
+21,Oct-2001,1.93,Northeast,50.6
+22,Nov-2001,1.98,Northeast,43.2
+23,Dec-2001,2.5,Northeast,34.2
+24,Jan-2002,2.33,Northeast,29.6
+25,Feb-2002,2.14,Northeast,29.7
+26,Mar-2002,3.75,Northeast,34.6
+27,Apr-2002,4.08,Northeast,47.0
+28,May-2002,4.82,Northeast,53.0
+29,Jun-2002,4.91,Northeast,64.6
+30,Jul-2002,2.55,Northeast,70.5
+31,Aug-2002,2.38,Northeast,70.2
+32,Sep-2002,4.39,Northeast,63.4
+33,Oct-2002,4.45,Northeast,47.2
+34,Nov-2002,4.15,Northeast,36.7
+35,Dec-2002,3.7,Northeast,26.0
+36,Jan-2003,2.23,Northeast,16.6
+37,Feb-2003,3.22,Northeast,20.0
+38,Mar-2003,3.23,Northeast,32.9
+39,Apr-2003,2.69,Northeast,42.9
+40,May-2003,4.61,Northeast,54.0
+41,Jun-2003,4.88,Northeast,63.5
+42,Jul-2003,4.44,Northeast,69.0
+43,Aug-2003,4.89,Northeast,69.8
+44,Sep-2003,5.83,Northeast,61.2
+45,Oct-2003,5.59,Northeast,47.4
+46,Nov-2003,4.24,Northeast,41.6
+47,Dec-2003,5.14,Northeast,28.4
+48,Jan-2004,2.1,Northeast,15.0
+49,Feb-2004,1.8,Northeast,24.0
+50,Mar-2004,2.37,Northeast,35.9
+51,Apr-2004,4.51,Northeast,45.4
+52,May-2004,4.83,Northeast,59.3
+53,Jun-2004,3.29,Northeast,62.7
+54,Jul-2004,5.88,Northeast,68.1
+55,Aug-2004,5.76,Northeast,67.1
+56,Sep-2004,5.82,Northeast,61.9
+57,Oct-2004,2.29,Northeast,49.0
+58,Nov-2004,3.73,Northeast,39.7
+59,Dec-2004,3.97,Northeast,27.2
+60,Jan-2005,4.07,Northeast,20.9
+61,Feb-2005,2.34,Northeast,26.2
+62,Mar-2005,3.6,Northeast,29.7
+63,Apr-2005,4.97,Northeast,46.8
+64,May-2005,3.12,Northeast,51.6
+65,Jun-2005,3.39,Northeast,68.2
+66,Jul-2005,4.16,Northeast,71.2
+67,Aug-2005,3.79,Northeast,70.4
+68,Sep-2005,3.04,Northeast,63.7
+69,Oct-2005,9.39,Northeast,50.8
+70,Nov-2005,4.93,Northeast,40.8
+71,Dec-2005,3.43,Northeast,25.3
+72,Jan-2006,4.35,Northeast,31.0
+73,Feb-2006,2.08,Northeast,26.2
+74,Mar-2006,1.33,Northeast,34.0
+75,Apr-2006,3.22,Northeast,47.3
+76,May-2006,4.65,Northeast,56.2
+77,Jun-2006,7.88,Northeast,65.4
+78,Jul-2006,4.98,Northeast,71.7
+79,Aug-2006,3.95,Northeast,67.6
+80,Sep-2006,4.26,Northeast,59.0
+81,Oct-2006,6.36,Northeast,48.0
+82,Nov-2006,4.28,Northeast,43.1
+83,Dec-2006,2.83,Northeast,34.7
+84,Jan-2007,3.5,Northeast,26.7
+85,Feb-2007,2.26,Northeast,18.0
+86,Mar-2007,3.97,Northeast,32.7
+87,Apr-2007,5.56,Northeast,42.3
+88,May-2007,2.32,Northeast,57.1
+89,Jun-2007,3.27,Northeast,65.8
+90,Jul-2007,4.07,Northeast,67.9
+91,Aug-2007,3.81,Northeast,68.4
+92,Sep-2007,2.49,Northeast,62.4
+93,Oct-2007,4.61,Northeast,55.4
+94,Nov-2007,4.4,Northeast,37.0
+95,Dec-2007,4.75,Northeast,26.9
+96,Jan-2008,2.27,Northeast,26.3
+97,Feb-2008,5.57,Northeast,25.4
+98,Mar-2008,4.93,Northeast,31.6
+99,Apr-2008,3.43,Northeast,48.2
+100,May-2008,2.95,Northeast,53.0
+101,Jun-2008,4.79,Northeast,66.8
+102,Jul-2008,5.21,Northeast,70.3
+103,Aug-2008,3.87,Northeast,65.9
+104,Sep-2008,4.84,Northeast,61.4
+105,Oct-2008,3.63,Northeast,47.6
+106,Nov-2008,3.39,Northeast,37.8
+107,Dec-2008,5.59,Northeast,27.9
+108,Jan-2009,2.7,Northeast,16.7
+109,Feb-2009,1.71,Northeast,26.2
+110,Mar-2009,2.48,Northeast,34.0
+111,Apr-2009,3.39,Northeast,46.8
+112,May-2009,4.68,Northeast,56.0
+113,Jun-2009,5.54,Northeast,63.0
+114,Jul-2009,5.85,Northeast,66.2
+115,Aug-2009,4.94,Northeast,69.1
+116,Sep-2009,2.51,Northeast,59.2
+117,Oct-2009,5.11,Northeast,46.7
+118,Nov-2009,2.9,Northeast,42.9
+119,Dec-2009,4.53,Northeast,26.7
+120,Jan-2010,2.82,Northeast,23.9
+121,Feb-2010,3.06,Northeast,25.9
+122,Mar-2010,4.98,Northeast,39.6
+123,Apr-2010,2.35,Northeast,50.0
+124,May-2010,2.92,Northeast,59.0
+125,Jun-2010,4.48,Northeast,66.5
+126,Jul-2010,3.87,Northeast,72.4
+127,Aug-2010,3.54,Northeast,69.1
+128,Sep-2010,3.74,Northeast,62.3
+129,Oct-2010,6.17,Northeast,49.6
+130,Nov-2010,3.44,Northeast,39.0
+131,Dec-2010,3.97,Northeast,24.9
+132,Jan-2011,2.21,Northeast,20.3
+133,Feb-2011,3.41,Northeast,24.1
+134,Mar-2011,4.98,Northeast,33.0
+135,Apr-2011,6.33,Northeast,46.2
+136,May-2011,5.42,Northeast,58.3
+137,Jun-2011,3.94,Northeast,65.6
+138,Jul-2011,3.03,Northeast,72.2
+139,Aug-2011,8.28,Northeast,68.4
+140,Sep-2011,7.22,Northeast,63.2
+141,Oct-2011,4.91,Northeast,50.4
+142,Nov-2011,3.24,Northeast,43.4
+143,Dec-2011,3.7,Northeast,32.7
+144,Jan-2012,3.14,Northeast,26.8
+145,Feb-2012,1.46,Northeast,30.6
+146,Mar-2012,2.14,Northeast,43.4
+147,Apr-2012,2.95,Northeast,46.0
+148,May-2012,4.62,Northeast,60.5
+149,Jun-2012,4.32,Northeast,64.8
+150,Jul-2012,3.37,Northeast,72.1
+151,Aug-2012,3.84,Northeast,69.6
+152,Sep-2012,4.92,Northeast,60.5
+153,Oct-2012,5.66,Northeast,51.6
+154,Nov-2012,1.1,Northeast,36.5
+155,Dec-2012,5.15,Northeast,32.4
+156,Jan-2013,2.29,Northeast,25.0
+157,Feb-2013,2.56,Northeast,25.3
+158,Mar-2013,2.29,Northeast,32.7
+159,Apr-2013,2.71,Northeast,45.1
+160,May-2013,4.37,Northeast,57.2
+161,Jun-2013,7.26,Northeast,65.3
+162,Jul-2013,4.93,Northeast,72.0
+163,Aug-2013,4.01,Northeast,66.6
+164,Sep-2013,3.47,Northeast,59.6
+165,Oct-2013,2.84,Northeast,51.5
+166,Nov-2013,3.71,Northeast,36.0
+167,Dec-2013,3.9,Northeast,26.6
+168,Jan-2014,2.82,Northeast,18.6
+169,Feb-2014,3.3,Northeast,21.0
+170,Mar-2014,3.35,Northeast,26.0
+171,Apr-2014,3.74,Northeast,44.6
+172,May-2014,4.66,Northeast,56.9
+173,Jun-2014,4.59,Northeast,65.7
+174,Jul-2014,5.46,Northeast,68.9
+175,Aug-2014,3.74,Northeast,66.2
+176,Sep-2014,1.93,Northeast,60.9
+177,Oct-2014,4.52,Northeast,51.9
+178,Nov-2014,3.06,Northeast,36.0
+179,Dec-2014,4.19,Northeast,31.6
+180,Jan-2015,2.91,Northeast,18.7
+181,Feb-2015,1.9,Northeast,12.1
+182,Mar-2015,2.45,Northeast,27.8
+183,Apr-2015,3.2,Northeast,44.6
+184,May-2015,2.46,Northeast,61.2
+185,Jun-2015,7.57,Northeast,63.8
+186,Jul-2015,3.79,Northeast,69.0
+187,Aug-2015,3.02,Northeast,68.8
+188,Sep-2015,4.51,Northeast,65.4
+189,Oct-2015,3.93,Northeast,48.4
+190,Nov-2015,2.21,Northeast,43.1
+191,Dec-2015,4.53,Northeast,39.4
+192,Jan-2016,2.24,Northeast,24.7
+193,Feb-2016,4.36,Northeast,28.1
+194,Mar-2016,2.5,Northeast,38.8
+195,Apr-2016,2.57,Northeast,43.4
+196,May-2016,3.26,Northeast,56.2
+197,Jun-2016,3.09,Northeast,65.1
+198,Jul-2016,3.79,Northeast,71.2
+199,Aug-2016,4.03,Northeast,71.4
+200,Sep-2016,2.89,Northeast,63.8
+201,Oct-2016,4.36,Northeast,51.4
+202,Nov-2016,2.49,Northeast,41.0
+203,Dec-2016,3.73,Northeast,28.3
+204,Jan-2017,3.54,Northeast,28.9
+205,Feb-2017,2.59,Northeast,31.4
+206,Mar-2017,3.46,Northeast,30.3
+207,Apr-2017,4.4,Northeast,49.7
+208,May-2017,5.88,Northeast,54.9
+209,Jun-2017,4.38,Northeast,65.0
+210,Jul-2017,5.02,Northeast,69.3
+211,Aug-2017,3.57,Northeast,66.4
+212,Sep-2017,2.52,Northeast,63.3
+213,Oct-2017,5.83,Northeast,55.4
+214,Nov-2017,2.56,Northeast,37.4
+215,Dec-2017,2.49,Northeast,24.2
+216,Jan-2018,3.66,Northeast,21.0
+217,Feb-2018,4.1,Northeast,30.8
+218,Mar-2018,3.17,Northeast,31.9
+219,Apr-2018,4.27,Northeast,40.6
+220,May-2018,3.62,Northeast,60.4
+221,Jun-2018,4.09,Northeast,64.2
+222,Jul-2018,5.54,Northeast,71.5
+223,Aug-2018,5.29,Northeast,71.3
+224,Sep-2018,6.23,Northeast,64.2
+225,Oct-2018,4.52,Northeast,49.0
+226,Nov-2018,6.52,Northeast,34.5
+227,Dec-2018,3.97,Northeast,29.3
+228,Jan-2019,4.64,Northeast,21.9
+229,Feb-2019,3.06,Northeast,25.6
+230,Mar-2019,2.53,Northeast,31.4
+231,Apr-2019,4.83,Northeast,46.4
+232,May-2019,5.4,Northeast,55.8
+233,Jun-2019,5.09,Northeast,64.1
+234,Jul-2019,4.31,Northeast,72.0
+235,Aug-2019,3.96,Northeast,68.1
+236,Sep-2019,2.47,Northeast,61.6
+237,Oct-2019,6.02,Northeast,51.4
+238,Nov-2019,3.14,Northeast,34.4
+239,Dec-2019,4.19,Northeast,29.0
+240,Jan-2020,2.82,Northeast,28.8
+241,Jan-2000,1.0,Upper Midwest,15.9
+242,Feb-2000,1.25,Upper Midwest,26.4
+243,Mar-2000,1.29,Upper Midwest,38.9
+244,Apr-2000,2.01,Upper Midwest,44.0
+245,May-2000,4.0,Upper Midwest,58.1
+246,Jun-2000,5.5,Upper Midwest,63.6
+247,Jul-2000,3.9,Upper Midwest,68.6
+248,Aug-2000,3.21,Upper Midwest,68.4
+249,Sep-2000,2.71,Upper Midwest,59.0
+250,Oct-2000,1.62,Upper Midwest,50.8
+251,Nov-2000,2.82,Upper Midwest,31.9
+252,Dec-2000,1.59,Upper Midwest,8.6
+253,Jan-2001,1.13,Upper Midwest,19.4
+254,Feb-2001,1.87,Upper Midwest,14.5
+255,Mar-2001,0.78,Upper Midwest,27.6
+256,Apr-2001,4.33,Upper Midwest,46.8
+257,May-2001,5.06,Upper Midwest,57.8
+258,Jun-2001,3.97,Upper Midwest,65.5
+259,Jul-2001,2.84,Upper Midwest,70.9
+260,Aug-2001,3.41,Upper Midwest,70.2
+261,Sep-2001,3.52,Upper Midwest,58.3
+262,Oct-2001,3.0,Upper Midwest,46.9
+263,Nov-2001,2.08,Upper Midwest,43.5
+264,Dec-2001,1.09,Upper Midwest,27.5
+265,Jan-2002,0.53,Upper Midwest,23.9
+266,Feb-2002,1.27,Upper Midwest,26.6
+267,Mar-2002,1.75,Upper Midwest,25.0
+268,Apr-2002,3.29,Upper Midwest,43.5
+269,May-2002,3.2,Upper Midwest,51.6
+270,Jun-2002,4.73,Upper Midwest,67.7
+271,Jul-2002,4.11,Upper Midwest,73.3
+272,Aug-2002,4.84,Upper Midwest,68.0
+273,Sep-2002,2.65,Upper Midwest,62.5
+274,Oct-2002,3.23,Upper Midwest,42.1
+275,Nov-2002,0.58,Upper Midwest,31.5
+276,Dec-2002,0.58,Upper Midwest,24.7
+277,Jan-2003,0.44,Upper Midwest,14.4
+278,Feb-2003,0.71,Upper Midwest,14.5
+279,Mar-2003,1.4,Upper Midwest,29.4
+280,Apr-2003,2.64,Upper Midwest,44.3
+281,May-2003,4.18,Upper Midwest,54.7
+282,Jun-2003,3.8,Upper Midwest,64.0
+283,Jul-2003,3.45,Upper Midwest,69.4
+284,Aug-2003,1.74,Upper Midwest,70.7
+285,Sep-2003,3.1,Upper Midwest,59.3
+286,Oct-2003,1.42,Upper Midwest,48.1
+287,Nov-2003,2.83,Upper Midwest,32.6
+288,Dec-2003,1.24,Upper Midwest,25.0
+289,Jan-2004,1.1,Upper Midwest,11.2
+290,Feb-2004,1.17,Upper Midwest,20.3
+291,Mar-2004,2.75,Upper Midwest,34.5
+292,Apr-2004,1.81,Upper Midwest,45.6
+293,May-2004,6.75,Upper Midwest,54.3
+294,Jun-2004,3.45,Upper Midwest,62.6
+295,Jul-2004,3.78,Upper Midwest,67.5
+296,Aug-2004,3.36,Upper Midwest,62.9
+297,Sep-2004,3.13,Upper Midwest,63.5
+298,Oct-2004,3.05,Upper Midwest,48.7
+299,Nov-2004,1.7,Upper Midwest,37.0
+300,Dec-2004,1.42,Upper Midwest,21.3
+301,Jan-2005,1.78,Upper Midwest,13.9
+302,Feb-2005,1.27,Upper Midwest,24.8
+303,Mar-2005,1.03,Upper Midwest,28.9
+304,Apr-2005,2.06,Upper Midwest,48.7
+305,May-2005,3.24,Upper Midwest,53.6
+306,Jun-2005,4.51,Upper Midwest,69.5
+307,Jul-2005,3.1,Upper Midwest,71.5
+308,Aug-2005,2.98,Upper Midwest,68.5
+309,Sep-2005,3.85,Upper Midwest,63.8
+310,Oct-2005,2.22,Upper Midwest,49.9
+311,Nov-2005,2.83,Upper Midwest,35.6
+312,Dec-2005,1.29,Upper Midwest,19.1
+313,Jan-2006,1.38,Upper Midwest,28.1
+314,Feb-2006,0.82,Upper Midwest,19.0
+315,Mar-2006,2.23,Upper Midwest,32.2
+316,Apr-2006,2.88,Upper Midwest,49.7
+317,May-2006,3.38,Upper Midwest,57.4
+318,Jun-2006,2.47,Upper Midwest,66.2
+319,Jul-2006,3.02,Upper Midwest,73.3
+320,Aug-2006,4.14,Upper Midwest,68.8
+321,Sep-2006,3.44,Upper Midwest,57.4
+322,Oct-2006,2.23,Upper Midwest,44.2
+323,Nov-2006,1.59,Upper Midwest,36.2
+324,Dec-2006,1.93,Upper Midwest,27.9
+325,Jan-2007,1.05,Upper Midwest,19.5
+326,Feb-2007,1.19,Upper Midwest,12.0
+327,Mar-2007,2.43,Upper Midwest,35.3
+328,Apr-2007,3.03,Upper Midwest,42.9
+329,May-2007,3.3,Upper Midwest,59.9
+330,Jun-2007,3.2,Upper Midwest,67.8
+331,Jul-2007,2.61,Upper Midwest,70.4
+332,Aug-2007,5.97,Upper Midwest,69.2
+333,Sep-2007,3.35,Upper Midwest,61.4
+334,Oct-2007,4.61,Upper Midwest,52.7
+335,Nov-2007,0.57,Upper Midwest,33.5
+336,Dec-2007,2.12,Upper Midwest,17.6
+337,Jan-2008,1.24,Upper Midwest,14.9
+338,Feb-2008,1.45,Upper Midwest,14.0
+339,Mar-2008,1.11,Upper Midwest,26.7
+340,Apr-2008,4.29,Upper Midwest,43.1
+341,May-2008,3.42,Upper Midwest,52.8
+342,Jun-2008,6.01,Upper Midwest,65.1
+343,Jul-2008,4.02,Upper Midwest,69.6
+344,Aug-2008,1.88,Upper Midwest,67.4
+345,Sep-2008,3.81,Upper Midwest,60.6
+346,Oct-2008,2.82,Upper Midwest,47.4
+347,Nov-2008,1.68,Upper Midwest,33.9
+348,Dec-2008,2.42,Upper Midwest,13.7
+349,Jan-2009,0.79,Upper Midwest,7.9
+350,Feb-2009,1.31,Upper Midwest,20.6
+351,Mar-2009,2.52,Upper Midwest,30.6
+352,Apr-2009,2.9,Upper Midwest,43.5
+353,May-2009,2.69,Upper Midwest,55.3
+354,Jun-2009,3.81,Upper Midwest,64.1
+355,Jul-2009,2.94,Upper Midwest,64.7
+356,Aug-2009,4.66,Upper Midwest,65.5
+357,Sep-2009,1.51,Upper Midwest,62.1
+358,Oct-2009,5.45,Upper Midwest,42.6
+359,Nov-2009,0.95,Upper Midwest,40.3
+360,Dec-2009,2.14,Upper Midwest,17.7
+361,Jan-2010,0.99,Upper Midwest,14.1
+362,Feb-2010,0.77,Upper Midwest,17.7
+363,Mar-2010,1.02,Upper Midwest,37.2
+364,Apr-2010,2.26,Upper Midwest,50.9
+365,May-2010,3.47,Upper Midwest,57.8
+366,Jun-2010,6.91,Upper Midwest,65.9
+367,Jul-2010,5.99,Upper Midwest,71.8
+368,Aug-2010,4.14,Upper Midwest,71.4
+369,Sep-2010,5.82,Upper Midwest,57.9
+370,Oct-2010,1.92,Upper Midwest,50.4
+371,Nov-2010,1.69,Upper Midwest,34.8
+372,Dec-2010,1.56,Upper Midwest,17.0
+373,Jan-2011,1.08,Upper Midwest,11.5
+374,Feb-2011,1.13,Upper Midwest,18.3
+375,Mar-2011,1.75,Upper Midwest,28.3
+376,Apr-2011,3.79,Upper Midwest,43.0
+377,May-2011,4.12,Upper Midwest,55.2
+378,Jun-2011,4.52,Upper Midwest,65.2
+379,Jul-2011,3.99,Upper Midwest,74.0
+380,Aug-2011,2.96,Upper Midwest,69.1
+381,Sep-2011,2.3,Upper Midwest,58.3
+382,Oct-2011,1.59,Upper Midwest,50.6
+383,Nov-2011,1.73,Upper Midwest,36.8
+384,Dec-2011,1.36,Upper Midwest,26.4
+385,Jan-2012,1.04,Upper Midwest,22.2
+386,Feb-2012,1.34,Upper Midwest,26.3
+387,Mar-2012,1.99,Upper Midwest,45.5
+388,Apr-2012,2.8,Upper Midwest,46.6
+389,May-2012,4.49,Upper Midwest,60.2
+390,Jun-2012,3.48,Upper Midwest,67.8
+391,Jul-2012,2.86,Upper Midwest,75.4
+392,Aug-2012,2.45,Upper Midwest,67.9
+393,Sep-2012,1.48,Upper Midwest,58.7
+394,Oct-2012,3.18,Upper Midwest,45.8
+395,Nov-2012,0.99,Upper Midwest,34.7
+396,Dec-2012,1.62,Upper Midwest,24.2
+397,Jan-2013,1.67,Upper Midwest,17.6
+398,Feb-2013,1.54,Upper Midwest,18.2
+399,Mar-2013,1.76,Upper Midwest,24.8
+400,Apr-2013,4.81,Upper Midwest,38.3
+401,May-2013,5.37,Upper Midwest,55.6
+402,Jun-2013,5.02,Upper Midwest,65.0
+403,Jul-2013,2.68,Upper Midwest,69.7
+404,Aug-2013,2.23,Upper Midwest,68.4
+405,Sep-2013,2.15,Upper Midwest,62.1
+406,Oct-2013,3.37,Upper Midwest,47.4
+407,Nov-2013,1.94,Upper Midwest,31.2
+408,Dec-2013,1.44,Upper Midwest,12.5
+409,Jan-2014,1.11,Upper Midwest,8.0
+410,Feb-2014,1.26,Upper Midwest,8.7
+411,Mar-2014,1.02,Upper Midwest,22.6
+412,Apr-2014,4.23,Upper Midwest,41.3
+413,May-2014,3.48,Upper Midwest,55.8
+414,Jun-2014,7.16,Upper Midwest,66.5
+415,Jul-2014,2.9,Upper Midwest,66.5
+416,Aug-2014,4.5,Upper Midwest,67.8
+417,Sep-2014,3.49,Upper Midwest,59.3
+418,Oct-2014,2.71,Upper Midwest,47.6
+419,Nov-2014,1.68,Upper Midwest,26.0
+420,Dec-2014,1.19,Upper Midwest,24.7
+421,Jan-2015,0.69,Upper Midwest,16.4
+422,Feb-2015,0.71,Upper Midwest,8.6
+423,Mar-2015,0.68,Upper Midwest,31.7
+424,Apr-2015,2.41,Upper Midwest,45.8
+425,May-2015,4.84,Upper Midwest,56.7
+426,Jun-2015,4.58,Upper Midwest,65.0
+427,Jul-2015,3.88,Upper Midwest,69.4
+428,Aug-2015,4.09,Upper Midwest,66.8
+429,Sep-2015,3.45,Upper Midwest,65.2
+430,Oct-2015,2.25,Upper Midwest,49.4
+431,Nov-2015,3.24,Upper Midwest,39.4
+432,Dec-2015,3.47,Upper Midwest,30.6
+433,Jan-2016,0.89,Upper Midwest,17.2
+434,Feb-2016,1.05,Upper Midwest,23.7
+435,Mar-2016,2.85,Upper Midwest,37.5
+436,Apr-2016,2.54,Upper Midwest,43.9
+437,May-2016,3.08,Upper Midwest,56.9
+438,Jun-2016,3.93,Upper Midwest,67.1
+439,Jul-2016,5.36,Upper Midwest,70.5
+440,Aug-2016,5.41,Upper Midwest,69.9
+441,Sep-2016,5.11,Upper Midwest,63.2
+442,Oct-2016,2.6,Upper Midwest,51.0
+443,Nov-2016,1.75,Upper Midwest,42.2
+444,Dec-2016,1.82,Upper Midwest,20.2
+445,Jan-2017,1.75,Upper Midwest,20.2
+446,Feb-2017,1.29,Upper Midwest,28.5
+447,Mar-2017,1.95,Upper Midwest,31.3
+448,Apr-2017,3.68,Upper Midwest,47.0
+449,May-2017,3.98,Upper Midwest,54.5
+450,Jun-2017,4.4,Upper Midwest,66.6
+451,Jul-2017,3.13,Upper Midwest,70.2
+452,Aug-2017,4.28,Upper Midwest,65.2
+453,Sep-2017,2.51,Upper Midwest,62.8
+454,Oct-2017,4.7,Upper Midwest,50.4
+455,Nov-2017,1.08,Upper Midwest,31.9
+456,Dec-2017,0.99,Upper Midwest,18.4
+457,Jan-2018,1.08,Upper Midwest,15.3
+458,Feb-2018,1.68,Upper Midwest,16.2
+459,Mar-2018,1.35,Upper Midwest,30.2
+460,Apr-2018,1.95,Upper Midwest,34.9
+461,May-2018,3.97,Upper Midwest,62.4
+462,Jun-2018,5.44,Upper Midwest,67.9
+463,Jul-2018,3.46,Upper Midwest,70.6
+464,Aug-2018,4.81,Upper Midwest,69.2
+465,Sep-2018,5.25,Upper Midwest,61.8
+466,Oct-2018,4.53,Upper Midwest,44.2
+467,Nov-2018,1.75,Upper Midwest,27.2
+468,Dec-2018,1.67,Upper Midwest,25.0
+469,Jan-2019,1.33,Upper Midwest,13.0
+470,Feb-2019,2.44,Upper Midwest,12.6
+471,Mar-2019,1.74,Upper Midwest,26.3
+472,Apr-2019,3.22,Upper Midwest,43.6
+473,May-2019,5.48,Upper Midwest,52.4
+474,Jun-2019,3.84,Upper Midwest,64.9
+475,Jul-2019,4.13,Upper Midwest,71.8
+476,Aug-2019,3.22,Upper Midwest,66.5
+477,Sep-2019,6.13,Upper Midwest,62.8
+478,Oct-2019,4.79,Upper Midwest,45.1
+479,Nov-2019,1.77,Upper Midwest,29.0
+480,Dec-2019,2.24,Upper Midwest,23.6
+481,Jan-2020,1.53,Upper Midwest,20.6
+482,Jan-2000,2.36,Ohio Valley,30.8
+483,Feb-2000,3.34,Ohio Valley,40.1
+484,Mar-2000,2.83,Ohio Valley,47.7
+485,Apr-2000,3.54,Ohio Valley,52.6
+486,May-2000,4.46,Ohio Valley,65.8
+487,Jun-2000,5.84,Ohio Valley,71.3
+488,Jul-2000,4.11,Ohio Valley,73.6
+489,Aug-2000,3.51,Ohio Valley,74.7
+490,Sep-2000,3.65,Ohio Valley,66.6
+491,Oct-2000,1.81,Ohio Valley,58.5
+492,Nov-2000,3.01,Ohio Valley,41.3
+493,Dec-2000,2.61,Ohio Valley,22.7
+494,Jan-2001,2.03,Ohio Valley,29.1
+495,Feb-2001,3.76,Ohio Valley,36.1
+496,Mar-2001,2.05,Ohio Valley,39.2
+497,Apr-2001,2.8,Ohio Valley,58.2
+498,May-2001,4.95,Ohio Valley,64.7
+499,Jun-2001,4.35,Ohio Valley,70.3
+500,Jul-2001,4.98,Ohio Valley,75.4
+501,Aug-2001,3.66,Ohio Valley,75.2
+502,Sep-2001,3.26,Ohio Valley,65.0
+503,Oct-2001,4.89,Ohio Valley,54.8
+504,Nov-2001,3.27,Ohio Valley,50.2
+505,Dec-2001,3.44,Ohio Valley,39.1
+506,Jan-2002,3.17,Ohio Valley,35.6
+507,Feb-2002,1.72,Ohio Valley,36.8
+508,Mar-2002,5.01,Ohio Valley,41.5
+509,Apr-2002,4.69,Ohio Valley,55.9
+510,May-2002,6.97,Ohio Valley,60.2
+511,Jun-2002,3.42,Ohio Valley,73.5
+512,Jul-2002,3.25,Ohio Valley,77.6
+513,Aug-2002,3.11,Ohio Valley,75.8
+514,Sep-2002,3.89,Ohio Valley,70.2
+515,Oct-2002,3.93,Ohio Valley,54.4
+516,Nov-2002,2.39,Ohio Valley,41.7
+517,Dec-2002,3.41,Ohio Valley,34.3
+518,Jan-2003,1.36,Ohio Valley,25.7
+519,Feb-2003,4.27,Ohio Valley,30.2
+520,Mar-2003,2.2,Ohio Valley,44.8
+521,Apr-2003,3.88,Ohio Valley,55.3
+522,May-2003,6.53,Ohio Valley,62.4
+523,Jun-2003,4.67,Ohio Valley,68.1
+524,Jul-2003,5.16,Ohio Valley,74.9
+525,Aug-2003,4.0,Ohio Valley,75.6
+526,Sep-2003,5.49,Ohio Valley,64.8
+527,Oct-2003,2.31,Ohio Valley,55.1
+528,Nov-2003,4.75,Ohio Valley,47.6
+529,Dec-2003,3.11,Ohio Valley,35.2
+530,Jan-2004,2.95,Ohio Valley,28.5
+531,Feb-2004,1.88,Ohio Valley,33.1
+532,Mar-2004,4.21,Ohio Valley,47.0
+533,Apr-2004,3.44,Ohio Valley,54.5
+534,May-2004,6.57,Ohio Valley,66.9
+535,Jun-2004,4.15,Ohio Valley,70.4
+536,Jul-2004,4.91,Ohio Valley,73.3
+537,Aug-2004,4.6,Ohio Valley,69.9
+538,Sep-2004,2.73,Ohio Valley,67.8
+539,Oct-2004,4.41,Ohio Valley,57.3
+540,Nov-2004,5.14,Ohio Valley,47.8
+541,Dec-2004,3.12,Ohio Valley,33.9
+542,Jan-2005,5.33,Ohio Valley,33.8
+543,Feb-2005,2.45,Ohio Valley,38.1
+544,Mar-2005,2.51,Ohio Valley,40.8
+545,Apr-2005,3.93,Ohio Valley,55.5
+546,May-2005,2.22,Ohio Valley,60.7
+547,Jun-2005,2.91,Ohio Valley,73.9
+548,Jul-2005,4.03,Ohio Valley,76.6
+549,Aug-2005,5.11,Ohio Valley,76.4
+550,Sep-2005,3.07,Ohio Valley,70.5
+551,Oct-2005,1.67,Ohio Valley,56.4
+552,Nov-2005,3.45,Ohio Valley,46.4
+553,Dec-2005,1.82,Ohio Valley,30.0
+554,Jan-2006,3.63,Ohio Valley,40.7
+555,Feb-2006,1.48,Ohio Valley,33.7
+556,Mar-2006,3.69,Ohio Valley,43.8
+557,Apr-2006,4.14,Ohio Valley,58.5
+558,May-2006,3.97,Ohio Valley,62.2
+559,Jun-2006,3.8,Ohio Valley,71.0
+560,Jul-2006,4.28,Ohio Valley,76.6
+561,Aug-2006,4.11,Ohio Valley,76.1
+562,Sep-2006,4.52,Ohio Valley,64.1
+563,Oct-2006,4.42,Ohio Valley,52.8
+564,Nov-2006,3.23,Ohio Valley,45.8
+565,Dec-2006,3.24,Ohio Valley,38.8
+566,Jan-2007,3.7,Ohio Valley,33.9
+567,Feb-2007,2.3,Ohio Valley,26.1
+568,Mar-2007,3.11,Ohio Valley,50.1
+569,Apr-2007,3.8,Ohio Valley,51.4
+570,May-2007,2.65,Ohio Valley,66.9
+571,Jun-2007,3.71,Ohio Valley,72.7
+572,Jul-2007,3.43,Ohio Valley,73.6
+573,Aug-2007,3.49,Ohio Valley,79.0
+574,Sep-2007,2.44,Ohio Valley,70.1
+575,Oct-2007,4.05,Ohio Valley,60.7
+576,Nov-2007,2.47,Ohio Valley,44.2
+577,Dec-2007,4.67,Ohio Valley,35.4
+578,Jan-2008,2.59,Ohio Valley,30.6
+579,Feb-2008,4.44,Ohio Valley,32.1
+580,Mar-2008,6.1,Ohio Valley,42.0
+581,Apr-2008,4.8,Ohio Valley,53.5
+582,May-2008,5.23,Ohio Valley,60.4
+583,Jun-2008,5.4,Ohio Valley,73.0
+584,Jul-2008,5.01,Ohio Valley,74.6
+585,Aug-2008,2.31,Ohio Valley,72.5
+586,Sep-2008,4.43,Ohio Valley,68.2
+587,Oct-2008,2.37,Ohio Valley,54.8
+588,Nov-2008,2.11,Ohio Valley,42.2
+589,Dec-2008,4.99,Ohio Valley,32.4
+590,Jan-2009,2.47,Ohio Valley,26.1
+591,Feb-2009,2.26,Ohio Valley,35.9
+592,Mar-2009,3.58,Ohio Valley,45.7
+593,Apr-2009,5.01,Ohio Valley,53.2
+594,May-2009,6.04,Ohio Valley,63.3
+595,Jun-2009,4.89,Ohio Valley,72.7
+596,Jul-2009,5.11,Ohio Valley,71.0
+597,Aug-2009,3.95,Ohio Valley,72.2
+598,Sep-2009,3.88,Ohio Valley,66.8
+599,Oct-2009,7.13,Ohio Valley,51.7
+600,Nov-2009,1.81,Ohio Valley,48.2
+601,Dec-2009,3.87,Ohio Valley,32.1
+602,Jan-2010,2.6,Ohio Valley,26.2
+603,Feb-2010,2.09,Ohio Valley,28.2
+604,Mar-2010,3.13,Ohio Valley,44.6
+605,Apr-2010,3.15,Ohio Valley,58.7
+606,May-2010,6.58,Ohio Valley,65.2
+607,Jun-2010,5.58,Ohio Valley,75.5
+608,Jul-2010,5.0,Ohio Valley,77.6
+609,Aug-2010,3.03,Ohio Valley,77.1
+610,Sep-2010,3.6,Ohio Valley,68.2
+611,Oct-2010,1.59,Ohio Valley,57.0
+612,Nov-2010,4.02,Ohio Valley,45.2
+613,Dec-2010,1.99,Ohio Valley,27.3
+614,Jan-2011,1.7,Ohio Valley,26.6
+615,Feb-2011,3.92,Ohio Valley,34.4
+616,Mar-2011,4.35,Ohio Valley,44.2
+617,Apr-2011,8.72,Ohio Valley,55.7
+618,May-2011,5.98,Ohio Valley,63.0
+619,Jun-2011,5.03,Ohio Valley,73.5
+620,Jul-2011,3.29,Ohio Valley,79.6
+621,Aug-2011,2.86,Ohio Valley,75.2
+622,Sep-2011,4.79,Ohio Valley,65.1
+623,Oct-2011,2.67,Ohio Valley,55.2
+624,Nov-2011,6.04,Ohio Valley,47.8
+625,Dec-2011,4.35,Ohio Valley,38.2
+626,Jan-2012,2.88,Ohio Valley,35.5
+627,Feb-2012,2.06,Ohio Valley,38.6
+628,Mar-2012,3.67,Ohio Valley,56.3
+629,Apr-2012,2.72,Ohio Valley,55.6
+630,May-2012,3.12,Ohio Valley,68.4
+631,Jun-2012,1.87,Ohio Valley,72.4
+632,Jul-2012,3.35,Ohio Valley,80.6
+633,Aug-2012,3.15,Ohio Valley,73.9
+634,Sep-2012,5.26,Ohio Valley,65.9
+635,Oct-2012,3.79,Ohio Valley,53.8
+636,Nov-2012,1.26,Ohio Valley,42.5
+637,Dec-2012,3.68,Ohio Valley,39.7
+638,Jan-2013,4.58,Ohio Valley,33.4
+639,Feb-2013,2.54,Ohio Valley,33.4
+640,Mar-2013,3.42,Ohio Valley,37.3
+641,Apr-2013,5.82,Ohio Valley,52.5
+642,May-2013,5.12,Ohio Valley,63.8
+643,Jun-2013,5.55,Ohio Valley,71.8
+644,Jul-2013,4.79,Ohio Valley,73.6
+645,Aug-2013,3.3,Ohio Valley,72.8
+646,Sep-2013,2.74,Ohio Valley,68.3
+647,Oct-2013,3.28,Ohio Valley,55.9
+648,Nov-2013,2.96,Ohio Valley,41.0
+649,Dec-2013,4.26,Ohio Valley,32.4
+650,Jan-2014,1.95,Ohio Valley,23.6
+651,Feb-2014,2.94,Ohio Valley,27.1
+652,Mar-2014,2.35,Ohio Valley,38.0
+653,Apr-2014,5.31,Ohio Valley,54.4
+654,May-2014,3.54,Ohio Valley,64.3
+655,Jun-2014,5.77,Ohio Valley,72.9
+656,Jul-2014,3.38,Ohio Valley,71.2
+657,Aug-2014,4.78,Ohio Valley,73.9
+658,Sep-2014,3.07,Ohio Valley,66.3
+659,Oct-2014,5.16,Ohio Valley,56.1
+660,Nov-2014,2.23,Ohio Valley,37.7
+661,Dec-2014,2.79,Ohio Valley,37.1
+662,Jan-2015,1.94,Ohio Valley,29.2
+663,Feb-2015,2.26,Ohio Valley,23.4
+664,Mar-2015,4.01,Ohio Valley,41.6
+665,Apr-2015,4.96,Ohio Valley,55.6
+666,May-2015,4.56,Ohio Valley,65.6
+667,Jun-2015,7.36,Ohio Valley,72.8
+668,Jul-2015,6.69,Ohio Valley,75.1
+669,Aug-2015,3.31,Ohio Valley,72.1
+670,Sep-2015,2.86,Ohio Valley,70.0
+671,Oct-2015,2.53,Ohio Valley,56.7
+672,Nov-2015,5.11,Ohio Valley,48.8
+673,Dec-2015,6.43,Ohio Valley,44.7
+674,Jan-2016,1.52,Ohio Valley,29.6
+675,Feb-2016,2.94,Ohio Valley,36.9
+676,Mar-2016,3.78,Ohio Valley,49.5
+677,Apr-2016,3.51,Ohio Valley,54.9
+678,May-2016,4.73,Ohio Valley,62.1
+679,Jun-2016,3.57,Ohio Valley,74.4
+680,Jul-2016,5.89,Ohio Valley,76.7
+681,Aug-2016,5.65,Ohio Valley,76.6
+682,Sep-2016,3.28,Ohio Valley,71.2
+683,Oct-2016,2.15,Ohio Valley,60.8
+684,Nov-2016,2.11,Ohio Valley,49.0
+685,Dec-2016,3.33,Ohio Valley,33.3
+686,Jan-2017,3.27,Ohio Valley,36.7
+687,Feb-2017,1.41,Ohio Valley,43.7
+688,Mar-2017,4.31,Ohio Valley,45.5
+689,Apr-2017,6.32,Ohio Valley,58.6
+690,May-2017,5.87,Ohio Valley,63.0
+691,Jun-2017,4.28,Ohio Valley,71.8
+692,Jul-2017,4.99,Ohio Valley,76.2
+693,Aug-2017,3.66,Ohio Valley,71.5
+694,Sep-2017,2.17,Ohio Valley,68.2
+695,Oct-2017,4.52,Ohio Valley,58.7
+696,Nov-2017,2.67,Ohio Valley,44.8
+697,Dec-2017,1.89,Ohio Valley,33.0
+698,Jan-2018,2.06,Ohio Valley,27.3
+699,Feb-2018,6.55,Ohio Valley,38.4
+700,Mar-2018,4.21,Ohio Valley,41.6
+701,Apr-2018,3.7,Ohio Valley,47.7
+702,May-2018,4.35,Ohio Valley,70.8
+703,Jun-2018,5.54,Ohio Valley,74.7
+704,Jul-2018,3.42,Ohio Valley,75.9
+705,Aug-2018,5.11,Ohio Valley,75.1
+706,Sep-2018,5.92,Ohio Valley,71.4
+707,Oct-2018,3.61,Ohio Valley,56.4
+708,Nov-2018,4.23,Ohio Valley,38.8
+709,Dec-2018,4.36,Ohio Valley,37.2
+710,Jan-2019,3.85,Ohio Valley,30.8
+711,Feb-2019,5.82,Ohio Valley,35.7
+712,Mar-2019,3.9,Ohio Valley,40.3
+713,Apr-2019,4.58,Ohio Valley,55.2
+714,May-2019,6.66,Ohio Valley,65.0
+715,Jun-2019,6.16,Ohio Valley,71.0
+716,Jul-2019,4.44,Ohio Valley,76.9
+717,Aug-2019,4.3,Ohio Valley,74.0
+718,Sep-2019,2.29,Ohio Valley,73.0
+719,Oct-2019,5.26,Ohio Valley,56.6
+720,Nov-2019,3.14,Ohio Valley,39.2
+721,Dec-2019,3.58,Ohio Valley,38.9
+722,Jan-2020,4.59,Ohio Valley,36.2
+723,Jan-2000,4.16,Southeast,45.4
+724,Feb-2000,1.71,Southeast,50.8
+725,Mar-2000,3.85,Southeast,58.3
+726,Apr-2000,3.64,Southeast,60.4
+727,May-2000,1.68,Southeast,72.6
+728,Jun-2000,4.54,Southeast,77.2
+729,Jul-2000,4.54,Southeast,79.1
+730,Aug-2000,4.29,Southeast,78.4
+731,Sep-2000,6.25,Southeast,72.6
+732,Oct-2000,0.63,Southeast,63.6
+733,Nov-2000,3.84,Southeast,52.7
+734,Dec-2000,2.59,Southeast,40.9
+735,Jan-2001,2.55,Southeast,42.9
+736,Feb-2001,2.31,Southeast,52.4
+737,Mar-2001,7.14,Southeast,52.4
+738,Apr-2001,1.89,Southeast,63.5
+739,May-2001,3.27,Southeast,69.7
+740,Jun-2001,6.64,Southeast,76.0
+741,Jul-2001,5.83,Southeast,77.8
+742,Aug-2001,4.45,Southeast,78.6
+743,Sep-2001,4.92,Southeast,71.3
+744,Oct-2001,1.73,Southeast,61.8
+745,Nov-2001,1.59,Southeast,59.0
+746,Dec-2001,2.19,Southeast,52.4
+747,Jan-2002,4.0,Southeast,47.8
+748,Feb-2002,2.17,Southeast,48.3
+749,Mar-2002,4.59,Southeast,55.9
+750,Apr-2002,2.28,Southeast,66.3
+751,May-2002,3.19,Southeast,69.3
+752,Jun-2002,4.58,Southeast,76.8
+753,Jul-2002,5.03,Southeast,80.0
+754,Aug-2002,4.7,Southeast,78.9
+755,Sep-2002,5.78,Southeast,75.8
+756,Oct-2002,4.89,Southeast,66.9
+757,Nov-2002,4.51,Southeast,52.4
+758,Dec-2002,5.32,Southeast,45.4
+759,Jan-2003,1.95,Southeast,41.1
+760,Feb-2003,5.24,Southeast,47.6
+761,Mar-2003,6.04,Southeast,58.0
+762,Apr-2003,5.1,Southeast,62.0
+763,May-2003,6.57,Southeast,70.3
+764,Jun-2003,7.59,Southeast,75.2
+765,Jul-2003,7.45,Southeast,78.3
+766,Aug-2003,6.23,Southeast,78.8
+767,Sep-2003,4.86,Southeast,72.6
+768,Oct-2003,2.83,Southeast,63.6
+769,Nov-2003,3.16,Southeast,59.2
+770,Dec-2003,3.15,Southeast,44.7
+771,Jan-2004,2.35,Southeast,43.9
+772,Feb-2004,4.95,Southeast,46.0
+773,Mar-2004,1.53,Southeast,57.3
+774,Apr-2004,2.79,Southeast,61.5
+775,May-2004,3.3,Southeast,72.9
+776,Jun-2004,6.76,Southeast,76.9
+777,Jul-2004,5.26,Southeast,79.0
+778,Aug-2004,6.62,Southeast,76.6
+779,Sep-2004,9.37,Southeast,73.4
+780,Oct-2004,2.39,Southeast,66.5
+781,Nov-2004,4.49,Southeast,57.5
+782,Dec-2004,3.07,Southeast,46.5
+783,Jan-2005,2.41,Southeast,48.5
+784,Feb-2005,3.4,Southeast,49.8
+785,Mar-2005,5.34,Southeast,52.6
+786,Apr-2005,4.65,Southeast,60.6
+787,May-2005,3.36,Southeast,67.3
+788,Jun-2005,6.83,Southeast,76.0
+789,Jul-2005,7.24,Southeast,80.5
+790,Aug-2005,5.4,Southeast,80.0
+791,Sep-2005,2.16,Southeast,76.2
+792,Oct-2005,4.0,Southeast,65.1
+793,Nov-2005,3.3,Southeast,56.7
+794,Dec-2005,3.9,Southeast,44.7
+795,Jan-2006,3.43,Southeast,51.1
+796,Feb-2006,3.46,Southeast,46.9
+797,Mar-2006,1.41,Southeast,55.1
+798,Apr-2006,2.74,Southeast,65.9
+799,May-2006,3.04,Southeast,68.9
+800,Jun-2006,5.22,Southeast,76.3
+801,Jul-2006,4.11,Southeast,80.0
+802,Aug-2006,4.75,Southeast,80.6
+803,Sep-2006,4.95,Southeast,72.2
+804,Oct-2006,3.82,Southeast,62.2
+805,Nov-2006,4.29,Southeast,54.5
+806,Dec-2006,3.31,Southeast,51.7
+807,Jan-2007,3.61,Southeast,48.9
+808,Feb-2007,2.47,Southeast,45.0
+809,Mar-2007,2.21,Southeast,58.5
+810,Apr-2007,2.85,Southeast,60.5
+811,May-2007,1.28,Southeast,69.7
+812,Jun-2007,4.31,Southeast,76.9
+813,Jul-2007,4.95,Southeast,78.4
+814,Aug-2007,3.39,Southeast,82.4
+815,Sep-2007,3.22,Southeast,75.2
+816,Oct-2007,4.07,Southeast,68.1
+817,Nov-2007,1.36,Southeast,54.1
+818,Dec-2007,4.11,Southeast,52.3
+819,Jan-2008,2.82,Southeast,45.0
+820,Feb-2008,4.5,Southeast,50.6
+821,Mar-2008,3.62,Southeast,55.1
+822,Apr-2008,4.13,Southeast,62.3
+823,May-2008,3.03,Southeast,69.1
+824,Jun-2008,3.37,Southeast,78.5
+825,Jul-2008,5.26,Southeast,78.8
+826,Aug-2008,7.92,Southeast,77.8
+827,Sep-2008,3.14,Southeast,73.9
+828,Oct-2008,3.19,Southeast,62.1
+829,Nov-2008,3.0,Southeast,51.4
+830,Dec-2008,4.07,Southeast,50.7
+831,Jan-2009,2.82,Southeast,44.8
+832,Feb-2009,2.06,Southeast,47.5
+833,Mar-2009,5.55,Southeast,55.2
+834,Apr-2009,4.14,Southeast,61.8
+835,May-2009,7.06,Southeast,70.6
+836,Jun-2009,4.17,Southeast,78.1
+837,Jul-2009,4.79,Southeast,77.6
+838,Aug-2009,5.26,Southeast,78.7
+839,Sep-2009,5.32,Southeast,73.7
+840,Oct-2009,4.36,Southeast,63.7
+841,Nov-2009,4.66,Southeast,55.9
+842,Dec-2009,7.98,Southeast,46.2
+843,Jan-2010,5.16,Southeast,41.2
+844,Feb-2010,3.63,Southeast,41.5
+845,Mar-2010,4.49,Southeast,52.2
+846,Apr-2010,2.18,Southeast,64.1
+847,May-2010,4.77,Southeast,72.7
+848,Jun-2010,3.96,Southeast,80.4
+849,Jul-2010,4.18,Southeast,81.4
+850,Aug-2010,5.58,Southeast,81.0
+851,Sep-2010,4.43,Southeast,75.9
+852,Oct-2010,2.01,Southeast,64.5
+853,Nov-2010,2.37,Southeast,54.7
+854,Dec-2010,2.2,Southeast,39.3
+855,Jan-2011,3.0,Southeast,41.8
+856,Feb-2011,2.8,Southeast,50.5
+857,Mar-2011,5.67,Southeast,56.4
+858,Apr-2011,3.52,Southeast,65.3
+859,May-2011,2.31,Southeast,70.5
+860,Jun-2011,3.59,Southeast,79.5
+861,Jul-2011,5.03,Southeast,81.2
+862,Aug-2011,4.55,Southeast,80.6
+863,Sep-2011,5.51,Southeast,73.4
+864,Oct-2011,3.06,Southeast,61.7
+865,Nov-2011,3.19,Southeast,56.3
+866,Dec-2011,3.05,Southeast,51.1
+867,Jan-2012,2.87,Southeast,49.1
+868,Feb-2012,2.88,Southeast,51.9
+869,Mar-2012,3.94,Southeast,63.2
+870,Apr-2012,2.43,Southeast,63.9
+871,May-2012,4.87,Southeast,72.6
+872,Jun-2012,5.48,Southeast,75.1
+873,Jul-2012,5.38,Southeast,81.4
+874,Aug-2012,6.88,Southeast,77.8
+875,Sep-2012,4.27,Southeast,73.1
+876,Oct-2012,2.96,Southeast,63.8
+877,Nov-2012,0.96,Southeast,51.5
+878,Dec-2012,4.4,Southeast,51.7
+879,Jan-2013,3.87,Southeast,50.6
+880,Feb-2013,6.12,Southeast,48.1
+881,Mar-2013,3.23,Southeast,49.2
+882,Apr-2013,4.65,Southeast,62.6
+883,May-2013,4.08,Southeast,68.0
+884,Jun-2013,7.64,Southeast,77.0
+885,Jul-2013,9.28,Southeast,78.1
+886,Aug-2013,6.16,Southeast,77.2
+887,Sep-2013,3.17,Southeast,73.5
+888,Oct-2013,1.71,Southeast,64.9
+889,Nov-2013,3.26,Southeast,53.2
+890,Dec-2013,5.57,Southeast,50.6
+891,Jan-2014,3.21,Southeast,40.0
+892,Feb-2014,3.91,Southeast,48.7
+893,Mar-2014,4.64,Southeast,51.6
+894,Apr-2014,6.24,Southeast,62.6
+895,May-2014,4.15,Southeast,70.7
+896,Jun-2014,4.41,Southeast,77.3
+897,Jul-2014,4.75,Southeast,78.0
+898,Aug-2014,4.32,Southeast,77.9
+899,Sep-2014,5.14,Southeast,74.6
+900,Oct-2014,3.1,Southeast,65.0
+901,Nov-2014,3.79,Southeast,49.9
+902,Dec-2014,4.29,Southeast,50.3
+903,Jan-2015,3.51,Southeast,44.7
+904,Feb-2015,3.69,Southeast,41.8
+905,Mar-2015,3.19,Southeast,57.0
+906,Apr-2015,5.25,Southeast,65.4
+907,May-2015,2.61,Southeast,71.8
+908,Jun-2015,4.96,Southeast,78.7
+909,Jul-2015,5.17,Southeast,80.4
+910,Aug-2015,5.4,Southeast,78.5
+911,Sep-2015,4.75,Southeast,74.2
+912,Oct-2015,4.72,Southeast,64.6
+913,Nov-2015,5.82,Southeast,59.8
+914,Dec-2015,7.27,Southeast,58.5
+915,Jan-2016,3.88,Southeast,43.8
+916,Feb-2016,4.85,Southeast,48.8
+917,Mar-2016,3.16,Southeast,60.1
+918,Apr-2016,3.51,Southeast,63.0
+919,May-2016,4.39,Southeast,69.6
+920,Jun-2016,4.74,Southeast,78.2
+921,Jul-2016,4.26,Southeast,81.7
+922,Aug-2016,4.87,Southeast,80.8
+923,Sep-2016,5.25,Southeast,77.0
+924,Oct-2016,2.89,Southeast,67.2
+925,Nov-2016,1.14,Southeast,56.9
+926,Dec-2016,4.03,Southeast,50.9
+927,Jan-2017,5.72,Southeast,51.5
+928,Feb-2017,1.93,Southeast,55.5
+929,Mar-2017,2.75,Southeast,56.3
+930,Apr-2017,4.33,Southeast,66.7
+931,May-2017,5.79,Southeast,70.5
+932,Jun-2017,7.39,Southeast,75.9
+933,Jul-2017,5.33,Southeast,80.2
+934,Aug-2017,5.72,Southeast,78.4
+935,Sep-2017,4.81,Southeast,73.6
+936,Oct-2017,4.56,Southeast,66.6
+937,Nov-2017,1.26,Southeast,55.7
+938,Dec-2017,2.71,Southeast,48.2
+939,Jan-2018,2.9,Southeast,41.7
+940,Feb-2018,4.04,Southeast,57.5
+941,Mar-2018,3.37,Southeast,52.8
+942,Apr-2018,4.64,Southeast,60.2
+943,May-2018,7.03,Southeast,73.5
+944,Jun-2018,5.07,Southeast,78.5
+945,Jul-2018,6.22,Southeast,79.5
+946,Aug-2018,5.94,Southeast,79.1
+947,Sep-2018,6.2,Southeast,78.6
+948,Oct-2018,3.7,Southeast,67.3
+949,Nov-2018,5.58,Southeast,53.0
+950,Dec-2018,7.99,Southeast,49.7
+951,Jan-2019,4.41,Southeast,46.9
+952,Feb-2019,4.03,Southeast,54.6
+953,Mar-2019,2.88,Southeast,54.6
+954,Apr-2019,4.44,Southeast,64.1
+955,May-2019,2.92,Southeast,74.4
+956,Jun-2019,6.04,Southeast,77.1
+957,Jul-2019,4.87,Southeast,80.4
+958,Aug-2019,5.42,Southeast,79.6
+959,Sep-2019,1.49,Southeast,78.1
+960,Oct-2019,5.46,Southeast,68.6
+961,Nov-2019,2.89,Southeast,52.3
+962,Dec-2019,5.43,Southeast,51.6
+963,Jan-2020,4.32,Southeast,50.5
+964,Jan-2000,0.77,Northern Rockies,22.0
+965,Feb-2000,1.08,Northern Rockies,28.6
+966,Mar-2000,1.11,Northern Rockies,36.7
+967,Apr-2000,1.69,Northern Rockies,44.0
+968,May-2000,2.49,Northern Rockies,54.8
+969,Jun-2000,2.4,Northern Rockies,61.0
+970,Jul-2000,2.1,Northern Rockies,70.4
+971,Aug-2000,1.07,Northern Rockies,69.8
+972,Sep-2000,1.34,Northern Rockies,57.7
+973,Oct-2000,1.47,Northern Rockies,46.4
+974,Nov-2000,1.4,Northern Rockies,23.0
+975,Dec-2000,0.65,Northern Rockies,14.1
+976,Jan-2001,0.56,Northern Rockies,22.9
+977,Feb-2001,0.81,Northern Rockies,15.8
+978,Mar-2001,0.62,Northern Rockies,32.2
+979,Apr-2001,2.42,Northern Rockies,43.7
+980,May-2001,1.9,Northern Rockies,55.1
+981,Jun-2001,2.95,Northern Rockies,62.3
+982,Jul-2001,3.04,Northern Rockies,70.8
+983,Aug-2001,0.81,Northern Rockies,70.4
+984,Sep-2001,1.39,Northern Rockies,59.9
+985,Oct-2001,1.11,Northern Rockies,44.9
+986,Nov-2001,0.91,Northern Rockies,38.0
+987,Dec-2001,0.48,Northern Rockies,23.2
+988,Jan-2002,0.67,Northern Rockies,22.7
+989,Feb-2002,0.51,Northern Rockies,26.7
+990,Mar-2002,1.13,Northern Rockies,22.4
+991,Apr-2002,1.32,Northern Rockies,41.4
+992,May-2002,1.76,Northern Rockies,49.9
+993,Jun-2002,2.2,Northern Rockies,64.9
+994,Jul-2002,1.6,Northern Rockies,72.7
+995,Aug-2002,2.4,Northern Rockies,65.7
+996,Sep-2002,1.37,Northern Rockies,58.7
+997,Oct-2002,1.27,Northern Rockies,38.2
+998,Nov-2002,0.43,Northern Rockies,32.9
+999,Dec-2002,0.51,Northern Rockies,26.4
+1000,Jan-2003,0.78,Northern Rockies,22.9
+1001,Feb-2003,0.86,Northern Rockies,19.4
+1002,Mar-2003,1.57,Northern Rockies,31.1
+1003,Apr-2003,2.02,Northern Rockies,45.6
+1004,May-2003,2.67,Northern Rockies,52.5
+1005,Jun-2003,2.91,Northern Rockies,60.6
+1006,Jul-2003,1.01,Northern Rockies,71.9
+1007,Aug-2003,1.02,Northern Rockies,71.6
+1008,Sep-2003,1.54,Northern Rockies,56.6
+1009,Oct-2003,0.92,Northern Rockies,49.3
+1010,Nov-2003,0.94,Northern Rockies,25.8
+1011,Dec-2003,0.89,Northern Rockies,25.5
+1012,Jan-2004,0.78,Northern Rockies,16.9
+1013,Feb-2004,0.7,Northern Rockies,22.9
+1014,Mar-2004,1.1,Northern Rockies,37.3
+1015,Apr-2004,1.22,Northern Rockies,45.3
+1016,May-2004,2.97,Northern Rockies,51.9
+1017,Jun-2004,2.22,Northern Rockies,59.1
+1018,Jul-2004,2.34,Northern Rockies,67.6
+1019,Aug-2004,1.68,Northern Rockies,63.5
+1020,Sep-2004,2.46,Northern Rockies,58.3
+1021,Oct-2004,1.65,Northern Rockies,45.8
+1022,Nov-2004,0.66,Northern Rockies,34.3
+1023,Dec-2004,0.54,Northern Rockies,26.4
+1024,Jan-2005,0.69,Northern Rockies,18.3
+1025,Feb-2005,0.41,Northern Rockies,28.1
+1026,Mar-2005,1.11,Northern Rockies,34.2
+1027,Apr-2005,1.94,Northern Rockies,44.9
+1028,May-2005,3.2,Northern Rockies,51.4
+1029,Jun-2005,4.66,Northern Rockies,62.4
+1030,Jul-2005,1.3,Northern Rockies,70.5
+1031,Aug-2005,1.81,Northern Rockies,66.6
+1032,Sep-2005,1.23,Northern Rockies,59.7
+1033,Oct-2005,1.55,Northern Rockies,46.9
+1034,Nov-2005,1.27,Northern Rockies,34.8
+1035,Dec-2005,0.9,Northern Rockies,20.8
+1036,Jan-2006,0.79,Northern Rockies,30.7
+1037,Feb-2006,0.59,Northern Rockies,22.5
+1038,Mar-2006,1.32,Northern Rockies,31.4
+1039,Apr-2006,2.08,Northern Rockies,47.4
+1040,May-2006,1.48,Northern Rockies,55.2
+1041,Jun-2006,1.92,Northern Rockies,65.2
+1042,Jul-2006,0.96,Northern Rockies,73.5
+1043,Aug-2006,1.99,Northern Rockies,68.1
+1044,Sep-2006,2.38,Northern Rockies,55.3
+1045,Oct-2006,1.28,Northern Rockies,42.3
+1046,Nov-2006,0.84,Northern Rockies,32.0
+1047,Dec-2006,1.01,Northern Rockies,25.5
+1048,Jan-2007,0.52,Northern Rockies,19.2
+1049,Feb-2007,1.03,Northern Rockies,19.5
+1050,Mar-2007,1.61,Northern Rockies,39.0
+1051,Apr-2007,1.95,Northern Rockies,42.0
+1052,May-2007,4.11,Northern Rockies,55.4
+1053,Jun-2007,2.42,Northern Rockies,64.1
+1054,Jul-2007,1.38,Northern Rockies,73.7
+1055,Aug-2007,2.17,Northern Rockies,68.5
+1056,Sep-2007,1.44,Northern Rockies,58.5
+1057,Oct-2007,1.99,Northern Rockies,47.2
+1058,Nov-2007,0.44,Northern Rockies,33.4
+1059,Dec-2007,1.03,Northern Rockies,19.3
+1060,Jan-2008,0.7,Northern Rockies,16.7
+1061,Feb-2008,0.73,Northern Rockies,21.5
+1062,Mar-2008,0.9,Northern Rockies,31.1
+1063,Apr-2008,1.36,Northern Rockies,39.5
+1064,May-2008,3.98,Northern Rockies,50.9
+1065,Jun-2008,3.32,Northern Rockies,60.2
+1066,Jul-2008,1.83,Northern Rockies,69.4
+1067,Aug-2008,1.5,Northern Rockies,67.7
+1068,Sep-2008,1.99,Northern Rockies,56.4
+1069,Oct-2008,2.24,Northern Rockies,45.3
+1070,Nov-2008,1.16,Northern Rockies,35.0
+1071,Dec-2008,1.21,Northern Rockies,14.9
+1072,Jan-2009,0.93,Northern Rockies,19.2
+1073,Feb-2009,0.8,Northern Rockies,24.3
+1074,Mar-2009,1.51,Northern Rockies,29.4
+1075,Apr-2009,2.05,Northern Rockies,40.9
+1076,May-2009,1.51,Northern Rockies,52.9
+1077,Jun-2009,3.27,Northern Rockies,59.8
+1078,Jul-2009,2.35,Northern Rockies,65.8
+1079,Aug-2009,2.19,Northern Rockies,64.9
+1080,Sep-2009,1.03,Northern Rockies,61.0
+1081,Oct-2009,2.77,Northern Rockies,37.8
+1082,Nov-2009,0.32,Northern Rockies,37.0
+1083,Dec-2009,1.04,Northern Rockies,13.2
+1084,Jan-2010,0.74,Northern Rockies,18.6
+1085,Feb-2010,0.58,Northern Rockies,18.7
+1086,Mar-2010,1.05,Northern Rockies,35.7
+1087,Apr-2010,2.25,Northern Rockies,44.8
+1088,May-2010,3.62,Northern Rockies,49.7
+1089,Jun-2010,4.26,Northern Rockies,61.7
+1090,Jul-2010,2.39,Northern Rockies,68.2
+1091,Aug-2010,2.05,Northern Rockies,68.0
+1092,Sep-2010,2.12,Northern Rockies,57.0
+1093,Oct-2010,1.03,Northern Rockies,49.3
+1094,Nov-2010,1.14,Northern Rockies,29.7
+1095,Dec-2010,1.26,Northern Rockies,19.6
+1096,Jan-2011,1.22,Northern Rockies,16.7
+1097,Feb-2011,0.99,Northern Rockies,17.1
+1098,Mar-2011,1.29,Northern Rockies,29.1
+1099,Apr-2011,2.43,Northern Rockies,40.3
+1100,May-2011,4.99,Northern Rockies,49.5
+1101,Jun-2011,3.36,Northern Rockies,60.6
+1102,Jul-2011,2.34,Northern Rockies,70.8
+1103,Aug-2011,1.74,Northern Rockies,68.9
+1104,Sep-2011,0.73,Northern Rockies,58.6
+1105,Oct-2011,1.65,Northern Rockies,48.0
+1106,Nov-2011,0.77,Northern Rockies,31.9
+1107,Dec-2011,0.62,Northern Rockies,25.2
+1108,Jan-2012,0.72,Northern Rockies,25.2
+1109,Feb-2012,1.05,Northern Rockies,24.8
+1110,Mar-2012,0.85,Northern Rockies,42.7
+1111,Apr-2012,2.2,Northern Rockies,47.2
+1112,May-2012,2.17,Northern Rockies,54.0
+1113,Jun-2012,1.75,Northern Rockies,65.4
+1114,Jul-2012,1.39,Northern Rockies,73.9
+1115,Aug-2012,0.82,Northern Rockies,68.5
+1116,Sep-2012,0.29,Northern Rockies,59.8
+1117,Oct-2012,1.38,Northern Rockies,43.1
+1118,Nov-2012,0.84,Northern Rockies,33.9
+1119,Dec-2012,0.95,Northern Rockies,21.4
+1120,Jan-2013,0.66,Northern Rockies,20.1
+1121,Feb-2013,0.67,Northern Rockies,24.5
+1122,Mar-2013,0.84,Northern Rockies,29.1
+1123,Apr-2013,1.86,Northern Rockies,36.5
+1124,May-2013,4.17,Northern Rockies,53.6
+1125,Jun-2013,2.58,Northern Rockies,62.7
+1126,Jul-2013,1.73,Northern Rockies,69.3
+1127,Aug-2013,1.78,Northern Rockies,69.2
+1128,Sep-2013,2.5,Northern Rockies,61.6
+1129,Oct-2013,2.71,Northern Rockies,42.5
+1130,Nov-2013,0.61,Northern Rockies,31.2
+1131,Dec-2013,0.99,Northern Rockies,15.7
+1132,Jan-2014,0.71,Northern Rockies,21.0
+1133,Feb-2014,1.08,Northern Rockies,15.3
+1134,Mar-2014,1.35,Northern Rockies,30.0
+1135,Apr-2014,1.71,Northern Rockies,41.9
+1136,May-2014,2.15,Northern Rockies,53.2
+1137,Jun-2014,4.24,Northern Rockies,60.6
+1138,Jul-2014,1.15,Northern Rockies,68.1
+1139,Aug-2014,3.74,Northern Rockies,66.6
+1140,Sep-2014,1.65,Northern Rockies,57.8
+1141,Oct-2014,0.81,Northern Rockies,48.8
+1142,Nov-2014,1.14,Northern Rockies,26.2
+1143,Dec-2014,1.01,Northern Rockies,24.3
+1144,Jan-2015,0.65,Northern Rockies,23.7
+1145,Feb-2015,0.71,Northern Rockies,23.1
+1146,Mar-2015,0.57,Northern Rockies,38.6
+1147,Apr-2015,1.36,Northern Rockies,44.8
+1148,May-2015,4.23,Northern Rockies,51.3
+1149,Jun-2015,2.93,Northern Rockies,65.4
+1150,Jul-2015,2.35,Northern Rockies,68.4
+1151,Aug-2015,1.76,Northern Rockies,67.4
+1152,Sep-2015,1.41,Northern Rockies,61.7
+1153,Oct-2015,1.34,Northern Rockies,49.8
+1154,Nov-2015,1.21,Northern Rockies,32.9
+1155,Dec-2015,1.27,Northern Rockies,23.9
+1156,Jan-2016,0.61,Northern Rockies,21.8
+1157,Feb-2016,0.72,Northern Rockies,31.5
+1158,Mar-2016,1.29,Northern Rockies,38.2
+1159,Apr-2016,3.11,Northern Rockies,44.9
+1160,May-2016,2.97,Northern Rockies,53.1
+1161,Jun-2016,1.66,Northern Rockies,66.4
+1162,Jul-2016,2.47,Northern Rockies,69.1
+1163,Aug-2016,1.72,Northern Rockies,67.0
+1164,Sep-2016,2.33,Northern Rockies,58.4
+1165,Oct-2016,2.01,Northern Rockies,48.1
+1166,Nov-2016,0.8,Northern Rockies,40.0
+1167,Dec-2016,1.38,Northern Rockies,15.9
+1168,Jan-2017,0.98,Northern Rockies,16.7
+1169,Feb-2017,1.2,Northern Rockies,27.5
+1170,Mar-2017,1.4,Northern Rockies,36.1
+1171,Apr-2017,2.14,Northern Rockies,43.7
+1172,May-2017,2.13,Northern Rockies,53.4
+1173,Jun-2017,1.71,Northern Rockies,64.0
+1174,Jul-2017,1.31,Northern Rockies,72.7
+1175,Aug-2017,1.96,Northern Rockies,65.9
+1176,Sep-2017,2.35,Northern Rockies,58.1
+1177,Oct-2017,1.26,Northern Rockies,44.9
+1178,Nov-2017,0.96,Northern Rockies,33.1
+1179,Dec-2017,0.97,Northern Rockies,21.9
+1180,Jan-2018,0.75,Northern Rockies,20.6
+1181,Feb-2018,1.24,Northern Rockies,13.9
+1182,Mar-2018,1.39,Northern Rockies,30.6
+1183,Apr-2018,1.59,Northern Rockies,37.9
+1184,May-2018,3.03,Northern Rockies,58.2
+1185,Jun-2018,3.9,Northern Rockies,64.5
+1186,Jul-2018,2.27,Northern Rockies,69.3
+1187,Aug-2018,1.46,Northern Rockies,66.7
+1188,Sep-2018,1.53,Northern Rockies,57.6
+1189,Oct-2018,1.6,Northern Rockies,42.3
+1190,Nov-2018,1.1,Northern Rockies,29.2
+1191,Dec-2018,1.05,Northern Rockies,24.2
+1192,Jan-2019,0.7,Northern Rockies,21.1
+1193,Feb-2019,1.33,Northern Rockies,8.6
+1194,Mar-2019,1.28,Northern Rockies,26.0
+1195,Apr-2019,1.99,Northern Rockies,43.3
+1196,May-2019,4.02,Northern Rockies,48.7
+1197,Jun-2019,2.65,Northern Rockies,61.8
+1198,Jul-2019,3.0,Northern Rockies,68.6
+1199,Aug-2019,2.56,Northern Rockies,66.6
+1200,Sep-2019,3.46,Northern Rockies,59.4
+1201,Oct-2019,1.64,Northern Rockies,37.8
+1202,Nov-2019,0.98,Northern Rockies,30.3
+1203,Dec-2019,0.88,Northern Rockies,24.1
+1204,Jan-2020,0.81,Northern Rockies,22.0
+1205,Jan-2000,1.35,South,45.9
+1206,Feb-2000,1.39,South,52.5
+1207,Mar-2000,3.5,South,57.5
+1208,Apr-2000,2.71,South,62.2
+1209,May-2000,3.58,South,73.8
+1210,Jun-2000,5.31,South,76.8
+1211,Jul-2000,1.71,South,82.4
+1212,Aug-2000,0.7,South,84.0
+1213,Sep-2000,1.64,South,76.1
+1214,Oct-2000,3.62,South,65.2
+1215,Nov-2000,5.67,South,48.1
+1216,Dec-2000,2.16,South,37.1
+1217,Jan-2001,2.86,South,40.3
+1218,Feb-2001,3.36,South,47.3
+1219,Mar-2001,3.7,South,50.2
+1220,Apr-2001,1.47,South,65.7
+1221,May-2001,4.07,South,71.6
+1222,Jun-2001,3.92,South,78.1
+1223,Jul-2001,2.09,South,84.0
+1224,Aug-2001,3.61,South,81.7
+1225,Sep-2001,3.8,South,72.9
+1226,Oct-2001,2.69,South,62.4
+1227,Nov-2001,3.45,South,56.8
+1228,Dec-2001,3.11,South,46.9
+1229,Jan-2002,2.09,South,45.0
+1230,Feb-2002,1.47,South,44.4
+1231,Mar-2002,3.31,South,51.4
+1232,Apr-2002,2.55,South,65.6
+1233,May-2002,3.07,South,70.4
+1234,Jun-2002,2.89,South,78.9
+1235,Jul-2002,4.19,South,81.0
+1236,Aug-2002,2.72,South,81.3
+1237,Sep-2002,3.52,South,75.2
+1238,Oct-2002,6.16,South,61.9
+1239,Nov-2002,1.99,South,50.4
+1240,Dec-2002,3.87,South,44.8
+1241,Jan-2003,0.61,South,41.5
+1242,Feb-2003,3.42,South,43.9
+1243,Mar-2003,1.86,South,53.8
+1244,Apr-2003,2.03,South,63.7
+1245,May-2003,3.0,South,72.3
+1246,Jun-2003,5.27,South,76.1
+1247,Jul-2003,2.67,South,81.7
+1248,Aug-2003,3.19,South,82.1
+1249,Sep-2003,3.65,South,71.8
+1250,Oct-2003,2.29,South,64.9
+1251,Nov-2003,2.46,South,54.8
+1252,Dec-2003,1.5,South,45.2
+1253,Jan-2004,2.5,South,44.0
+1254,Feb-2004,3.47,South,43.4
+1255,Mar-2004,2.95,South,58.5
+1256,Apr-2004,3.97,South,62.0
+1257,May-2004,3.59,South,72.0
+1258,Jun-2004,7.03,South,76.8
+1259,Jul-2004,3.7,South,79.3
+1260,Aug-2004,3.1,South,77.3
+1261,Sep-2004,1.98,South,74.3
+1262,Oct-2004,4.62,South,67.2
+1263,Nov-2004,6.31,South,54.0
+1264,Dec-2004,1.64,South,44.6
+1265,Jan-2005,2.68,South,46.0
+1266,Feb-2005,2.9,South,49.1
+1267,Mar-2005,2.15,South,53.4
+1268,Apr-2005,2.05,South,62.0
+1269,May-2005,2.86,South,69.6
+1270,Jun-2005,2.71,South,78.8
+1271,Jul-2005,3.62,South,81.3
+1272,Aug-2005,4.22,South,81.0
+1273,Sep-2005,2.36,South,78.0
+1274,Oct-2005,1.68,South,64.1
+1275,Nov-2005,1.28,South,55.7
+1276,Dec-2005,1.04,South,43.0
+1277,Jan-2006,1.95,South,50.0
+1278,Feb-2006,1.77,South,45.6
+1279,Mar-2006,2.64,South,56.9
+1280,Apr-2006,2.55,South,67.9
+1281,May-2006,2.72,South,72.6
+1282,Jun-2006,2.28,South,79.0
+1283,Jul-2006,2.65,South,82.7
+1284,Aug-2006,3.24,South,82.7
+1285,Sep-2006,3.1,South,71.7
+1286,Oct-2006,4.41,South,63.5
+1287,Nov-2006,1.69,South,54.1
+1288,Dec-2006,3.73,South,45.7
+1289,Jan-2007,3.72,South,40.0
+1290,Feb-2007,1.06,South,44.3
+1291,Mar-2007,3.48,South,59.9
+1292,Apr-2007,2.85,South,59.1
+1293,May-2007,5.27,South,70.5
+1294,Jun-2007,5.53,South,76.9
+1295,Jul-2007,5.45,South,78.8
+1296,Aug-2007,2.65,South,82.4
+1297,Sep-2007,3.11,South,75.6
+1298,Oct-2007,2.52,South,66.1
+1299,Nov-2007,1.36,South,54.3
+1300,Dec-2007,2.48,South,45.2
+1301,Jan-2008,1.48,South,42.1
+1302,Feb-2008,2.37,South,47.7
+1303,Mar-2008,3.4,South,54.6
+1304,Apr-2008,3.36,South,61.5
+1305,May-2008,3.84,South,71.0
+1306,Jun-2008,3.19,South,80.1
+1307,Jul-2008,2.59,South,81.2
+1308,Aug-2008,5.27,South,79.3
+1309,Sep-2008,4.33,South,71.9
+1310,Oct-2008,2.76,South,62.6
+1311,Nov-2008,1.54,South,53.0
+1312,Dec-2008,2.0,South,44.0
+1313,Jan-2009,1.05,South,43.3
+1314,Feb-2009,1.22,South,51.0
+1315,Mar-2009,3.41,South,55.7
+1316,Apr-2009,3.96,South,61.6
+1317,May-2009,4.26,South,70.4
+1318,Jun-2009,2.37,South,79.9
+1319,Jul-2009,4.37,South,81.3
+1320,Aug-2009,2.73,South,80.3
+1321,Sep-2009,5.02,South,72.5
+1322,Oct-2009,7.26,South,60.2
+1323,Nov-2009,1.31,South,55.0
+1324,Dec-2009,3.63,South,39.7
+1325,Jan-2010,2.51,South,39.8
+1326,Feb-2010,2.7,South,40.0
+1327,Mar-2010,2.24,South,52.0
+1328,Apr-2010,2.6,South,63.6
+1329,May-2010,3.6,South,71.5
+1330,Jun-2010,3.36,South,81.6
+1331,Jul-2010,4.84,South,81.5
+1332,Aug-2010,2.32,South,83.6
+1333,Sep-2010,3.48,South,76.2
+1334,Oct-2010,1.04,South,64.9
+1335,Nov-2010,2.26,South,53.6
+1336,Dec-2010,0.93,South,43.9
+1337,Jan-2011,1.75,South,40.4
+1338,Feb-2011,1.45,South,44.8
+1339,Mar-2011,1.54,South,56.9
+1340,Apr-2011,2.77,South,66.2
+1341,May-2011,2.86,South,70.6
+1342,Jun-2011,1.69,South,83.0
+1343,Jul-2011,2.0,South,86.1
+1344,Aug-2011,1.86,South,86.0
+1345,Sep-2011,2.42,South,74.0
+1346,Oct-2011,2.04,South,63.7
+1347,Nov-2011,2.95,South,53.9
+1348,Dec-2011,3.6,South,43.8
+1349,Jan-2012,2.32,South,47.3
+1350,Feb-2012,2.95,South,48.6
+1351,Mar-2012,4.22,South,62.1
+1352,Apr-2012,2.39,South,66.9
+1353,May-2012,2.41,South,74.0
+1354,Jun-2012,2.32,South,80.3
+1355,Jul-2012,3.09,South,83.7
+1356,Aug-2012,3.42,South,81.6
+1357,Sep-2012,3.81,South,74.7
+1358,Oct-2012,1.35,South,62.4
+1359,Nov-2012,0.79,South,54.7
+1360,Dec-2012,2.13,South,47.5
+1361,Jan-2013,3.73,South,44.6
+1362,Feb-2013,2.71,South,46.9
+1363,Mar-2013,1.48,South,51.8
+1364,Apr-2013,3.26,South,59.5
+1365,May-2013,3.86,South,69.6
+1366,Jun-2013,3.01,South,79.6
+1367,Jul-2013,3.87,South,79.9
+1368,Aug-2013,2.67,South,81.0
+1369,Sep-2013,3.86,South,76.8
+1370,Oct-2013,3.32,South,63.8
+1371,Nov-2013,2.49,South,49.9
+1372,Dec-2013,2.21,South,41.5
+1373,Jan-2014,0.78,South,39.8
+1374,Feb-2014,1.73,South,42.9
+1375,Mar-2014,2.09,South,50.6
+1376,Apr-2014,2.54,South,62.2
+1377,May-2014,4.22,South,70.1
+1378,Jun-2014,4.91,South,78.6
+1379,Jul-2014,3.37,South,79.2
+1380,Aug-2014,2.51,South,81.0
+1381,Sep-2014,3.13,South,74.6
+1382,Oct-2014,2.8,South,66.6
+1383,Nov-2014,2.45,South,48.0
+1384,Dec-2014,2.05,South,46.8
+1385,Jan-2015,2.67,South,41.2
+1386,Feb-2015,1.68,South,42.7
+1387,Mar-2015,3.78,South,54.0
+1388,Apr-2015,4.59,South,64.4
+1389,May-2015,9.44,South,69.6
+1390,Jun-2015,3.99,South,78.7
+1391,Jul-2015,3.34,South,82.4
+1392,Aug-2015,2.17,South,80.8
+1393,Sep-2015,1.66,South,77.4
+1394,Oct-2015,4.98,South,66.3
+1395,Nov-2015,5.41,South,55.3
+1396,Dec-2015,4.09,South,49.5
+1397,Jan-2016,1.42,South,42.6
+1398,Feb-2016,1.66,South,50.6
+1399,Mar-2016,4.48,South,58.3
+1400,Apr-2016,5.11,South,63.8
+1401,May-2016,4.54,South,69.1
+1402,Jun-2016,3.42,South,79.6
+1403,Jul-2016,3.08,South,83.6
+1404,Aug-2016,5.83,South,80.7
+1405,Sep-2016,3.01,South,76.5
+1406,Oct-2016,0.99,South,68.6
+1407,Nov-2016,2.15,South,58.1
+1408,Dec-2016,2.48,South,45.1
+1409,Jan-2017,3.02,South,47.1
+1410,Feb-2017,1.78,South,54.8
+1411,Mar-2017,2.68,South,59.6
+1412,Apr-2017,4.6,South,64.7
+1413,May-2017,4.39,South,69.4
+1414,Jun-2017,4.18,South,78.4
+1415,Jul-2017,3.22,South,82.4
+1416,Aug-2017,6.84,South,78.7
+1417,Sep-2017,2.3,South,74.8
+1418,Oct-2017,2.07,South,64.5
+1419,Nov-2017,0.74,South,56.4
+1420,Dec-2017,2.38,South,44.5
+1421,Jan-2018,1.37,South,39.9
+1422,Feb-2018,4.38,South,48.4
+1423,Mar-2018,2.72,South,57.2
+1424,Apr-2018,2.37,South,58.6
+1425,May-2018,2.84,South,76.2
+1426,Jun-2018,3.08,South,81.9
+1427,Jul-2018,3.14,South,82.8
+1428,Aug-2018,3.54,South,80.9
+1429,Sep-2018,6.0,South,75.5
+1430,Oct-2018,6.05,South,63.4
+1431,Nov-2018,2.7,South,48.6
+1432,Dec-2018,4.53,South,45.4
+1433,Jan-2019,2.53,South,43.3
+1434,Feb-2019,2.52,South,47.1
+1435,Mar-2019,2.02,South,51.8
+1436,Apr-2019,4.61,South,62.5
+1437,May-2019,7.47,South,70.4
+1438,Jun-2019,4.83,South,77.4
+1439,Jul-2019,2.81,South,81.3
+1440,Aug-2019,3.6,South,83.1
+1441,Sep-2019,2.18,South,80.2
+1442,Oct-2019,4.37,South,62.2
+1443,Nov-2019,1.86,South,49.7
+1444,Dec-2019,1.66,South,47.5
+1445,Jan-2020,3.48,South,46.8
+1446,Jan-2000,0.73,Southwest,37.0
+1447,Feb-2000,0.87,Southwest,41.2
+1448,Mar-2000,1.82,Southwest,43.4
+1449,Apr-2000,0.57,Southwest,54.1
+1450,May-2000,0.52,Southwest,63.6
+1451,Jun-2000,1.19,Southwest,70.1
+1452,Jul-2000,1.1,Southwest,75.2
+1453,Aug-2000,1.95,Southwest,73.8
+1454,Sep-2000,0.63,Southwest,66.6
+1455,Oct-2000,2.86,Southwest,53.1
+1456,Nov-2000,0.94,Southwest,35.0
+1457,Dec-2000,0.5,Southwest,34.5
+1458,Jan-2001,1.24,Southwest,31.3
+1459,Feb-2001,1.0,Southwest,36.4
+1460,Mar-2001,1.18,Southwest,43.8
+1461,Apr-2001,1.08,Southwest,51.6
+1462,May-2001,1.18,Southwest,62.2
+1463,Jun-2001,0.6,Southwest,70.4
+1464,Jul-2001,1.7,Southwest,74.8
+1465,Aug-2001,1.97,Southwest,72.6
+1466,Sep-2001,0.69,Southwest,67.2
+1467,Oct-2001,0.44,Southwest,55.8
+1468,Nov-2001,0.94,Southwest,44.5
+1469,Dec-2001,0.72,Southwest,32.2
+1470,Jan-2002,0.44,Southwest,33.2
+1471,Feb-2002,0.3,Southwest,35.5
+1472,Mar-2002,0.55,Southwest,40.9
+1473,Apr-2002,0.43,Southwest,54.7
+1474,May-2002,0.26,Southwest,60.3
+1475,Jun-2002,0.46,Southwest,72.5
+1476,Jul-2002,1.38,Southwest,75.9
+1477,Aug-2002,1.16,Southwest,72.9
+1478,Sep-2002,2.22,Southwest,65.0
+1479,Oct-2002,1.29,Southwest,51.3
+1480,Nov-2002,0.76,Southwest,41.4
+1481,Dec-2002,0.87,Southwest,33.6
+1482,Jan-2003,0.29,Southwest,39.4
+1483,Feb-2003,1.62,Southwest,36.0
+1484,Mar-2003,1.28,Southwest,43.6
+1485,Apr-2003,0.7,Southwest,50.4
+1486,May-2003,0.78,Southwest,61.1
+1487,Jun-2003,1.0,Southwest,68.2
+1488,Jul-2003,0.89,Southwest,77.7
+1489,Aug-2003,1.65,Southwest,73.9
+1490,Sep-2003,1.05,Southwest,65.3
+1491,Oct-2003,0.58,Southwest,58.6
+1492,Nov-2003,1.15,Southwest,40.8
+1493,Dec-2003,0.78,Southwest,35.2
+1494,Jan-2004,0.67,Southwest,33.3
+1495,Feb-2004,1.28,Southwest,33.4
+1496,Mar-2004,0.67,Southwest,49.2
+1497,Apr-2004,2.24,Southwest,50.8
+1498,May-2004,0.35,Southwest,61.3
+1499,Jun-2004,0.99,Southwest,68.5
+1500,Jul-2004,1.72,Southwest,72.8
+1501,Aug-2004,1.68,Southwest,70.0
+1502,Sep-2004,1.84,Southwest,63.8
+1503,Oct-2004,2.02,Southwest,52.9
+1504,Nov-2004,1.71,Southwest,40.0
+1505,Dec-2004,1.1,Southwest,34.7
+1506,Jan-2005,2.26,Southwest,37.5
+1507,Feb-2005,2.02,Southwest,38.3
+1508,Mar-2005,1.22,Southwest,42.2
+1509,Apr-2005,1.26,Southwest,50.0
+1510,May-2005,1.11,Southwest,60.1
+1511,Jun-2005,1.01,Southwest,67.3
+1512,Jul-2005,0.9,Southwest,75.8
+1513,Aug-2005,2.34,Southwest,70.8
+1514,Sep-2005,1.15,Southwest,65.9
+1515,Oct-2005,1.45,Southwest,54.6
+1516,Nov-2005,0.38,Southwest,44.2
+1517,Dec-2005,0.49,Southwest,34.6
+1518,Jan-2006,0.58,Southwest,36.1
+1519,Feb-2006,0.27,Southwest,37.5
+1520,Mar-2006,1.41,Southwest,41.8
+1521,Apr-2006,0.6,Southwest,53.2
+1522,May-2006,0.43,Southwest,62.8
+1523,Jun-2006,0.68,Southwest,72.2
+1524,Jul-2006,2.57,Southwest,75.5
+1525,Aug-2006,2.76,Southwest,71.1
+1526,Sep-2006,1.88,Southwest,60.9
+1527,Oct-2006,2.16,Southwest,52.0
+1528,Nov-2006,0.4,Southwest,43.8
+1529,Dec-2006,0.93,Southwest,33.3
+1530,Jan-2007,0.87,Southwest,28.6
+1531,Feb-2007,0.74,Southwest,37.4
+1532,Mar-2007,0.95,Southwest,46.8
+1533,Apr-2007,0.98,Southwest,51.0
+1534,May-2007,1.3,Southwest,60.2
+1535,Jun-2007,0.72,Southwest,69.8
+1536,Jul-2007,1.95,Southwest,75.3
+1537,Aug-2007,1.91,Southwest,74.2
+1538,Sep-2007,1.5,Southwest,66.0
+1539,Oct-2007,0.56,Southwest,54.6
+1540,Nov-2007,0.45,Southwest,45.5
+1541,Dec-2007,2.1,Southwest,31.2
+1542,Jan-2008,1.43,Southwest,29.7
+1543,Feb-2008,1.13,Southwest,36.3
+1544,Mar-2008,0.45,Southwest,42.6
+1545,Apr-2008,0.42,Southwest,49.0
+1546,May-2008,1.05,Southwest,57.4
+1547,Jun-2008,0.57,Southwest,69.5
+1548,Jul-2008,2.25,Southwest,74.0
+1549,Aug-2008,2.38,Southwest,72.1
+1550,Sep-2008,0.92,Southwest,64.4
+1551,Oct-2008,0.93,Southwest,54.4
+1552,Nov-2008,0.78,Southwest,44.7
+1553,Dec-2008,1.54,Southwest,33.6
+1554,Jan-2009,0.66,Southwest,35.8
+1555,Feb-2009,0.72,Southwest,39.0
+1556,Mar-2009,0.62,Southwest,44.6
+1557,Apr-2009,1.1,Southwest,49.5
+1558,May-2009,1.18,Southwest,62.4
+1559,Jun-2009,1.51,Southwest,66.4
+1560,Jul-2009,1.73,Southwest,74.7
+1561,Aug-2009,0.91,Southwest,71.9
+1562,Sep-2009,1.19,Southwest,65.2
+1563,Oct-2009,1.05,Southwest,50.2
+1564,Nov-2009,0.39,Southwest,44.2
+1565,Dec-2009,1.23,Southwest,28.9
+1566,Jan-2010,1.86,Southwest,32.8
+1567,Feb-2010,1.24,Southwest,34.0
+1568,Mar-2010,1.25,Southwest,41.8
+1569,Apr-2010,1.12,Southwest,49.8
+1570,May-2010,0.72,Southwest,56.4
+1571,Jun-2010,0.76,Southwest,70.0
+1572,Jul-2010,2.37,Southwest,74.4
+1573,Aug-2010,1.99,Southwest,72.1
+1574,Sep-2010,0.81,Southwest,67.6
+1575,Oct-2010,1.45,Southwest,55.4
+1576,Nov-2010,0.59,Southwest,40.2
+1577,Dec-2010,1.71,Southwest,38.3
+1578,Jan-2011,0.29,Southwest,31.9
+1579,Feb-2011,0.91,Southwest,32.9
+1580,Mar-2011,0.67,Southwest,45.6
+1581,Apr-2011,1.1,Southwest,51.0
+1582,May-2011,1.32,Southwest,56.3
+1583,Jun-2011,0.39,Southwest,69.4
+1584,Jul-2011,1.93,Southwest,75.2
+1585,Aug-2011,1.46,Southwest,75.3
+1586,Sep-2011,1.33,Southwest,66.0
+1587,Oct-2011,1.18,Southwest,54.3
+1588,Nov-2011,0.8,Southwest,41.5
+1589,Dec-2011,1.27,Southwest,31.1
+1590,Jan-2012,0.51,Southwest,36.6
+1591,Feb-2012,0.76,Southwest,36.2
+1592,Mar-2012,0.52,Southwest,46.4
+1593,Apr-2012,0.68,Southwest,54.2
+1594,May-2012,0.53,Southwest,62.0
+1595,Jun-2012,0.23,Southwest,72.8
+1596,Jul-2012,2.08,Southwest,74.7
+1597,Aug-2012,1.54,Southwest,74.0
+1598,Sep-2012,1.19,Southwest,66.1
+1599,Oct-2012,0.51,Southwest,54.8
+1600,Nov-2012,0.35,Southwest,45.7
+1601,Dec-2012,1.24,Southwest,33.6
+1602,Jan-2013,0.92,Southwest,29.1
+1603,Feb-2013,0.57,Southwest,33.5
+1604,Mar-2013,0.62,Southwest,44.9
+1605,Apr-2013,0.77,Southwest,49.8
+1606,May-2013,0.65,Southwest,59.9
+1607,Jun-2013,0.36,Southwest,72.5
+1608,Jul-2013,2.62,Southwest,74.4
+1609,Aug-2013,2.09,Southwest,72.4
+1610,Sep-2013,3.21,Southwest,65.5
+1611,Oct-2013,0.75,Southwest,51.0
+1612,Nov-2013,1.23,Southwest,42.3
+1613,Dec-2013,0.63,Southwest,31.5
+1614,Jan-2014,0.43,Southwest,35.5
+1615,Feb-2014,0.59,Southwest,39.4
+1616,Mar-2014,0.86,Southwest,44.8
+1617,Apr-2014,0.68,Southwest,50.8
+1618,May-2014,1.05,Southwest,59.3
+1619,Jun-2014,0.5,Southwest,70.1
+1620,Jul-2014,2.32,Southwest,74.8
+1621,Aug-2014,2.59,Southwest,70.1
+1622,Sep-2014,2.61,Southwest,66.5
+1623,Oct-2014,0.66,Southwest,56.7
+1624,Nov-2014,0.63,Southwest,41.8
+1625,Dec-2014,1.18,Southwest,35.9
+1626,Jan-2015,1.23,Southwest,35.9
+1627,Feb-2015,0.84,Southwest,41.5
+1628,Mar-2015,0.89,Southwest,47.7
+1629,Apr-2015,0.98,Southwest,51.2
+1630,May-2015,2.93,Southwest,56.6
+1631,Jun-2015,1.33,Southwest,71.5
+1632,Jul-2015,2.45,Southwest,72.4
+1633,Aug-2015,1.82,Southwest,73.3
+1634,Sep-2015,1.05,Southwest,68.3
+1635,Oct-2015,2.14,Southwest,57.3
+1636,Nov-2015,1.07,Southwest,40.8
+1637,Dec-2015,1.1,Southwest,33.0
+1638,Jan-2016,1.06,Southwest,32.7
+1639,Feb-2016,0.49,Southwest,40.3
+1640,Mar-2016,0.6,Southwest,46.3
+1641,Apr-2016,1.51,Southwest,51.0
+1642,May-2016,1.2,Southwest,57.7
+1643,Jun-2016,0.82,Southwest,72.9
+1644,Jul-2016,1.26,Southwest,75.8
+1645,Aug-2016,2.31,Southwest,70.8
+1646,Sep-2016,1.54,Southwest,65.0
+1647,Oct-2016,0.48,Southwest,58.2
+1648,Nov-2016,1.05,Southwest,45.8
+1649,Dec-2016,1.68,Southwest,34.5
+1650,Jan-2017,2.16,Southwest,33.4
+1651,Feb-2017,1.06,Southwest,42.0
+1652,Mar-2017,0.85,Southwest,49.4
+1653,Apr-2017,1.1,Southwest,51.6
+1654,May-2017,1.14,Southwest,58.7
+1655,Jun-2017,0.49,Southwest,72.0
+1656,Jul-2017,2.57,Southwest,75.3
+1657,Aug-2017,1.88,Southwest,71.7
+1658,Sep-2017,1.65,Southwest,65.1
+1659,Oct-2017,0.58,Southwest,54.7
+1660,Nov-2017,0.27,Southwest,48.6
+1661,Dec-2017,0.24,Southwest,37.3
+1662,Jan-2018,0.56,Southwest,37.2
+1663,Feb-2018,0.94,Southwest,37.9
+1664,Mar-2018,0.67,Southwest,44.7
+1665,Apr-2018,0.56,Southwest,53.3
+1666,May-2018,0.78,Southwest,62.8
+1667,Jun-2018,0.59,Southwest,72.5
+1668,Jul-2018,2.09,Southwest,76.0
+1669,Aug-2018,1.65,Southwest,73.2
+1670,Sep-2018,0.92,Southwest,67.9
+1671,Oct-2018,2.68,Southwest,52.1
+1672,Nov-2018,0.52,Southwest,40.0
+1673,Dec-2018,0.8,Southwest,33.7
+1674,Jan-2019,1.2,Southwest,33.3
+1675,Feb-2019,1.75,Southwest,33.5
+1676,Mar-2019,1.82,Southwest,42.8
+1677,Apr-2019,1.02,Southwest,52.5
+1678,May-2019,1.8,Southwest,54.8
+1679,Jun-2019,0.8,Southwest,67.6
+1680,Jul-2019,1.22,Southwest,75.2
+1681,Aug-2019,1.11,Southwest,74.8
+1682,Sep-2019,1.22,Southwest,67.6
+1683,Oct-2019,0.64,Southwest,49.7
+1684,Nov-2019,1.95,Southwest,42.8
+1685,Dec-2019,1.24,Southwest,34.6
+1686,Jan-2020,0.59,Southwest,34.8
+1687,Jan-2000,5.14,Northwest,29.6
+1688,Feb-2000,4.01,Northwest,34.9
+1689,Mar-2000,2.78,Northwest,37.4
+1690,Apr-2000,1.94,Northwest,47.0
+1691,May-2000,2.35,Northwest,50.8
+1692,Jun-2000,1.27,Northwest,59.2
+1693,Jul-2000,0.44,Northwest,65.0
+1694,Aug-2000,0.25,Northwest,65.2
+1695,Sep-2000,1.52,Northwest,55.9
+1696,Oct-2000,2.93,Northwest,46.2
+1697,Nov-2000,2.08,Northwest,30.7
+1698,Dec-2000,2.54,Northwest,29.3
+1699,Jan-2001,1.98,Northwest,28.9
+1700,Feb-2001,1.59,Northwest,30.1
+1701,Mar-2001,2.49,Northwest,39.4
+1702,Apr-2001,2.69,Northwest,41.7
+1703,May-2001,1.37,Northwest,53.7
+1704,Jun-2001,1.7,Northwest,56.6
+1705,Jul-2001,0.88,Northwest,64.5
+1706,Aug-2001,0.6,Northwest,67.3
+1707,Sep-2001,0.73,Northwest,60.0
+1708,Oct-2001,2.87,Northwest,46.6
+1709,Nov-2001,5.03,Northwest,38.6
+1710,Dec-2001,5.67,Northwest,28.5
+1711,Jan-2002,5.02,Northwest,29.2
+1712,Feb-2002,2.49,Northwest,31.2
+1713,Mar-2002,3.23,Northwest,34.3
+1714,Apr-2002,2.49,Northwest,43.7
+1715,May-2002,1.47,Northwest,49.6
+1716,Jun-2002,1.39,Northwest,59.4
+1717,Jul-2002,0.4,Northwest,68.0
+1718,Aug-2002,0.35,Northwest,62.9
+1719,Sep-2002,0.8,Northwest,57.5
+1720,Oct-2002,0.56,Northwest,44.4
+1721,Nov-2002,2.57,Northwest,37.6
+1722,Dec-2002,5.8,Northwest,33.0
+1723,Jan-2003,5.26,Northwest,35.6
+1724,Feb-2003,2.27,Northwest,32.4
+1725,Mar-2003,4.97,Northwest,39.6
+1726,Apr-2003,3.51,Northwest,42.2
+1727,May-2003,1.82,Northwest,50.8
+1728,Jun-2003,0.44,Northwest,60.4
+1729,Jul-2003,0.24,Northwest,69.5
+1730,Aug-2003,0.59,Northwest,66.8
+1731,Sep-2003,0.98,Northwest,59.3
+1732,Oct-2003,2.49,Northwest,50.5
+1733,Nov-2003,4.01,Northwest,32.2
+1734,Dec-2003,5.37,Northwest,31.4
+1735,Jan-2004,4.76,Northwest,28.3
+1736,Feb-2004,3.12,Northwest,32.0
+1737,Mar-2004,1.95,Northwest,42.2
+1738,Apr-2004,1.57,Northwest,46.7
+1739,May-2004,3.13,Northwest,50.7
+1740,Jun-2004,1.41,Northwest,59.4
+1741,Jul-2004,0.51,Northwest,67.1
+1742,Aug-2004,2.18,Northwest,65.8
+1743,Sep-2004,1.79,Northwest,55.4
+1744,Oct-2004,3.15,Northwest,47.1
+1745,Nov-2004,2.19,Northwest,36.4
+1746,Dec-2004,3.89,Northwest,32.9
+1747,Jan-2005,2.69,Northwest,30.7
+1748,Feb-2005,0.96,Northwest,33.7
+1749,Mar-2005,3.36,Northwest,40.3
+1750,Apr-2005,2.91,Northwest,43.9
+1751,May-2005,4.25,Northwest,52.0
+1752,Jun-2005,2.01,Northwest,55.3
+1753,Jul-2005,0.55,Northwest,66.5
+1754,Aug-2005,0.33,Northwest,65.9
+1755,Sep-2005,1.0,Northwest,55.4
+1756,Oct-2005,2.75,Northwest,47.6
+1757,Nov-2005,4.57,Northwest,35.2
+1758,Dec-2005,6.42,Northwest,28.2
+1759,Jan-2006,8.03,Northwest,32.9
+1760,Feb-2006,2.5,Northwest,30.4
+1761,Mar-2006,3.34,Northwest,35.6
+1762,Apr-2006,2.88,Northwest,44.3
+1763,May-2006,1.98,Northwest,52.7
+1764,Jun-2006,1.81,Northwest,60.5
+1765,Jul-2006,0.35,Northwest,69.1
+1766,Aug-2006,0.26,Northwest,64.0
+1767,Sep-2006,1.02,Northwest,57.7
+1768,Oct-2006,1.44,Northwest,45.9
+1769,Nov-2006,8.29,Northwest,35.9
+1770,Dec-2006,4.91,Northwest,29.7
+1771,Jan-2007,2.87,Northwest,26.6
+1772,Feb-2007,3.85,Northwest,34.4
+1773,Mar-2007,2.79,Northwest,41.4
+1774,Apr-2007,1.99,Northwest,44.2
+1775,May-2007,1.13,Northwest,52.7
+1776,Jun-2007,1.33,Northwest,58.6
+1777,Jul-2007,0.59,Northwest,70.0
+1778,Aug-2007,0.59,Northwest,64.6
+1779,Sep-2007,1.24,Northwest,56.0
+1780,Oct-2007,3.37,Northwest,45.0
+1781,Nov-2007,3.19,Northwest,36.5
+1782,Dec-2007,5.93,Northwest,28.1
+1783,Jan-2008,5.06,Northwest,25.3
+1784,Feb-2008,2.7,Northwest,32.9
+1785,Mar-2008,3.21,Northwest,34.6
+1786,Apr-2008,1.83,Northwest,39.1
+1787,May-2008,1.8,Northwest,51.1
+1788,Jun-2008,1.39,Northwest,56.4
+1789,Jul-2008,0.29,Northwest,65.9
+1790,Aug-2008,1.14,Northwest,64.7
+1791,Sep-2008,0.56,Northwest,57.7
+1792,Oct-2008,1.55,Northwest,46.7
+1793,Nov-2008,4.3,Northwest,40.0
+1794,Dec-2008,4.94,Northwest,26.5
+1795,Jan-2009,3.76,Northwest,30.0
+1796,Feb-2009,1.98,Northwest,32.0
+1797,Mar-2009,3.94,Northwest,34.4
+1798,Apr-2009,2.13,Northwest,42.7
+1799,May-2009,2.57,Northwest,52.2
+1800,Jun-2009,2.3,Northwest,58.1
+1801,Jul-2009,0.49,Northwest,67.1
+1802,Aug-2009,1.02,Northwest,64.8
+1803,Sep-2009,0.77,Northwest,60.6
+1804,Oct-2009,3.5,Northwest,43.0
+1805,Nov-2009,4.05,Northwest,36.4
+1806,Dec-2009,2.85,Northwest,25.0
+1807,Jan-2010,4.32,Northwest,33.8
+1808,Feb-2010,2.29,Northwest,34.9
+1809,Mar-2010,3.04,Northwest,38.4
+1810,Apr-2010,3.51,Northwest,42.0
+1811,May-2010,3.28,Northwest,46.3
+1812,Jun-2010,3.1,Northwest,55.6
+1813,Jul-2010,0.38,Northwest,64.6
+1814,Aug-2010,0.64,Northwest,63.3
+1815,Sep-2010,1.86,Northwest,57.4
+1816,Oct-2010,3.41,Northwest,48.7
+1817,Nov-2010,4.4,Northwest,34.1
+1818,Dec-2010,6.29,Northwest,30.7
+1819,Jan-2011,3.95,Northwest,30.1
+1820,Feb-2011,3.03,Northwest,29.4
+1821,Mar-2011,5.92,Northwest,36.5
+1822,Apr-2011,3.88,Northwest,38.6
+1823,May-2011,3.5,Northwest,46.8
+1824,Jun-2011,1.62,Northwest,54.8
+1825,Jul-2011,0.74,Northwest,62.8
+1826,Aug-2011,0.26,Northwest,65.8
+1827,Sep-2011,0.57,Northwest,61.1
+1828,Oct-2011,2.67,Northwest,47.3
+1829,Nov-2011,3.71,Northwest,34.3
+1830,Dec-2011,2.38,Northwest,29.5
+1831,Jan-2012,5.12,Northwest,30.8
+1832,Feb-2012,3.03,Northwest,32.4
+1833,Mar-2012,6.38,Northwest,37.4
+1834,Apr-2012,3.08,Northwest,45.4
+1835,May-2012,2.01,Northwest,50.2
+1836,Jun-2012,2.57,Northwest,55.8
+1837,Jul-2012,0.88,Northwest,66.8
+1838,Aug-2012,0.15,Northwest,67.2
+1839,Sep-2012,0.19,Northwest,60.1
+1840,Oct-2012,4.01,Northwest,46.7
+1841,Nov-2012,5.02,Northwest,38.6
+1842,Dec-2012,6.26,Northwest,29.9
+1843,Jan-2013,2.74,Northwest,26.4
+1844,Feb-2013,1.74,Northwest,32.6
+1845,Mar-2013,2.24,Northwest,38.8
+1846,Apr-2013,2.61,Northwest,43.1
+1847,May-2013,2.27,Northwest,52.3
+1848,Jun-2013,1.65,Northwest,59.2
+1849,Jul-2013,0.3,Northwest,68.8
+1850,Aug-2013,1.01,Northwest,66.8
+1851,Sep-2013,4.17,Northwest,58.3
+1852,Oct-2013,1.04,Northwest,44.8
+1853,Nov-2013,2.61,Northwest,36.8
+1854,Dec-2013,2.13,Northwest,26.4
+1855,Jan-2014,2.8,Northwest,33.0
+1856,Feb-2014,5.21,Northwest,31.4
+1857,Mar-2014,5.59,Northwest,39.4
+1858,Apr-2014,2.74,Northwest,44.4
+1859,May-2014,1.79,Northwest,53.0
+1860,Jun-2014,1.36,Northwest,57.7
+1861,Jul-2014,0.54,Northwest,69.4
+1862,Aug-2014,1.43,Northwest,65.8
+1863,Sep-2014,1.45,Northwest,59.4
+1864,Oct-2014,3.44,Northwest,51.1
+1865,Nov-2014,4.39,Northwest,35.3
+1866,Dec-2014,5.24,Northwest,33.2
+1867,Jan-2015,2.82,Northwest,34.1
+1868,Feb-2015,3.2,Northwest,39.2
+1869,Mar-2015,2.7,Northwest,43.8
+1870,Apr-2015,1.51,Northwest,44.2
+1871,May-2015,2.23,Northwest,53.6
+1872,Jun-2015,0.55,Northwest,65.3
+1873,Jul-2015,0.87,Northwest,67.0
+1874,Aug-2015,0.77,Northwest,66.5
+1875,Sep-2015,1.17,Northwest,57.3
+1876,Oct-2015,2.46,Northwest,52.6
+1877,Nov-2015,4.26,Northwest,33.8
+1878,Dec-2015,8.6,Northwest,29.6
+1879,Jan-2016,4.77,Northwest,30.6
+1880,Feb-2016,2.91,Northwest,37.1
+1881,Mar-2016,5.05,Northwest,39.9
+1882,Apr-2016,1.68,Northwest,49.5
+1883,May-2016,1.78,Northwest,52.9
+1884,Jun-2016,1.17,Northwest,60.6
+1885,Jul-2016,0.81,Northwest,64.4
+1886,Aug-2016,0.19,Northwest,65.8
+1887,Sep-2016,1.31,Northwest,56.1
+1888,Oct-2016,7.16,Northwest,47.1
+1889,Nov-2016,3.85,Northwest,41.6
+1890,Dec-2016,4.63,Northwest,24.2
+1891,Jan-2017,4.07,Northwest,23.4
+1892,Feb-2017,6.14,Northwest,32.0
+1893,Mar-2017,5.98,Northwest,39.9
+1894,Apr-2017,3.84,Northwest,42.4
+1895,May-2017,1.82,Northwest,52.3
+1896,Jun-2017,1.53,Northwest,59.5
+1897,Jul-2017,0.15,Northwest,68.9
+1898,Aug-2017,0.24,Northwest,68.4
+1899,Sep-2017,1.61,Northwest,58.3
+1900,Oct-2017,3.15,Northwest,45.0
+1901,Nov-2017,5.61,Northwest,37.4
+1902,Dec-2017,3.0,Northwest,29.5
+1903,Jan-2018,4.66,Northwest,34.5
+1904,Feb-2018,2.87,Northwest,30.6
+1905,Mar-2018,3.16,Northwest,36.9
+1906,Apr-2018,3.62,Northwest,44.2
+1907,May-2018,1.63,Northwest,55.5
+1908,Jun-2018,1.36,Northwest,58.2
+1909,Jul-2018,0.11,Northwest,68.4
+1910,Aug-2018,0.34,Northwest,65.8
+1911,Sep-2018,0.61,Northwest,56.7
+1912,Oct-2018,2.48,Northwest,46.8
+1913,Nov-2018,3.28,Northwest,36.6
+1914,Dec-2018,4.44,Northwest,29.8
+1915,Jan-2019,3.34,Northwest,32.0
+1916,Feb-2019,5.31,Northwest,26.0
+1917,Mar-2019,1.66,Northwest,35.4
+1918,Apr-2019,3.89,Northwest,45.1
+1919,May-2019,2.45,Northwest,52.5
+1920,Jun-2019,0.91,Northwest,58.5
+1921,Jul-2019,0.53,Northwest,64.8
+1922,Aug-2019,0.72,Northwest,66.5
+1923,Sep-2019,2.73,Northwest,56.2
+1924,Oct-2019,2.17,Northwest,40.9
+1925,Nov-2019,1.24,Northwest,37.6
+1926,Dec-2019,3.65,Northwest,31.4
+1927,Jan-2020,6.83,Northwest,32.2
+1928,Jan-2000,3.58,West,41.4
+1929,Feb-2000,5.01,West,43.5
+1930,Mar-2000,1.53,West,46.4
+1931,Apr-2000,1.34,West,55.2
+1932,May-2000,0.99,West,61.7
+1933,Jun-2000,0.28,West,70.5
+1934,Jul-2000,0.05,West,73.0
+1935,Aug-2000,0.58,West,73.8
+1936,Sep-2000,0.34,West,66.2
+1937,Oct-2000,1.97,West,54.9
+1938,Nov-2000,0.63,West,41.0
+1939,Dec-2000,0.6,West,41.6
+1940,Jan-2001,2.54,West,37.1
+1941,Feb-2001,3.05,West,38.6
+1942,Mar-2001,1.71,West,49.0
+1943,Apr-2001,1.52,West,49.4
+1944,May-2001,0.15,West,65.8
+1945,Jun-2001,0.19,West,69.6
+1946,Jul-2001,0.5,West,73.3
+1947,Aug-2001,0.14,West,75.2
+1948,Sep-2001,0.28,West,68.9
+1949,Oct-2001,0.49,West,60.0
+1950,Nov-2001,2.99,West,47.4
+1951,Dec-2001,3.65,West,37.8
+1952,Jan-2002,1.58,West,37.6
+1953,Feb-2002,1.09,West,42.9
+1954,Mar-2002,1.34,West,44.3
+1955,Apr-2002,0.88,West,53.3
+1956,May-2002,0.51,West,59.1
+1957,Jun-2002,0.15,West,69.8
+1958,Jul-2002,0.16,West,77.0
+1959,Aug-2002,0.03,West,72.7
+1960,Sep-2002,0.25,West,67.7
+1961,Oct-2002,0.18,West,55.1
+1962,Nov-2002,2.26,West,47.3
+1963,Dec-2002,5.12,West,39.7
+1964,Jan-2003,1.35,West,46.2
+1965,Feb-2003,2.0,West,40.9
+1966,Mar-2003,1.95,West,47.8
+1967,Apr-2003,3.03,West,47.6
+1968,May-2003,1.01,West,60.0
+1969,Jun-2003,0.06,West,69.8
+1970,Jul-2003,0.34,West,78.0
+1971,Aug-2003,0.81,West,73.9
+1972,Sep-2003,0.23,West,69.6
+1973,Oct-2003,0.1,West,62.0
+1974,Nov-2003,1.79,West,42.3
+1975,Dec-2003,4.1,West,39.6
+1976,Jan-2004,1.55,West,38.1
+1977,Feb-2004,4.13,West,39.3
+1978,Mar-2004,0.78,West,53.2
+1979,Apr-2004,0.83,West,54.1
+1980,May-2004,0.51,West,60.5
+1981,Jun-2004,0.19,West,69.0
+1982,Jul-2004,0.26,West,75.1
+1983,Aug-2004,0.45,West,72.9
+1984,Sep-2004,0.27,West,66.2
+1985,Oct-2004,3.16,West,54.6
+1986,Nov-2004,1.57,West,43.6
+1987,Dec-2004,3.78,West,40.0
+1988,Jan-2005,4.2,West,39.3
+1989,Feb-2005,2.96,West,42.3
+1990,Mar-2005,2.69,West,47.2
+1991,Apr-2005,1.6,West,50.0
+1992,May-2005,2.31,West,59.7
+1993,Jun-2005,0.6,West,64.3
+1994,Jul-2005,0.23,West,77.4
+1995,Aug-2005,0.41,West,74.0
+1996,Sep-2005,0.34,West,64.1
+1997,Oct-2005,0.95,West,56.5
+1998,Nov-2005,1.63,West,48.2
+1999,Dec-2005,5.35,West,41.0
+2000,Jan-2006,3.27,West,40.3
+2001,Feb-2006,1.91,West,42.5
+2002,Mar-2006,3.9,West,40.7
+2003,Apr-2006,3.17,West,50.8
+2004,May-2006,0.65,West,62.3
+2005,Jun-2006,0.21,West,71.4
+2006,Jul-2006,0.37,West,78.0
+2007,Aug-2006,0.06,West,72.3
+2008,Sep-2006,0.12,West,66.2
+2009,Oct-2006,0.62,West,55.0
+2010,Nov-2006,1.48,West,46.7
+2011,Dec-2006,2.11,West,38.7
+2012,Jan-2007,0.61,West,35.7
+2013,Feb-2007,2.91,West,42.6
+2014,Mar-2007,0.68,West,50.9
+2015,Apr-2007,1.12,West,53.4
+2016,May-2007,0.31,West,61.9
+2017,Jun-2007,0.21,West,69.3
+2018,Jul-2007,0.27,West,76.9
+2019,Aug-2007,0.31,West,74.8
+2020,Sep-2007,0.65,West,65.0
+2021,Oct-2007,1.14,West,55.0
+2022,Nov-2007,0.62,West,48.8
+2023,Dec-2007,2.45,West,36.3
+2024,Jan-2008,4.79,West,35.6
+2025,Feb-2008,2.07,West,41.2
+2026,Mar-2008,0.52,West,46.2
+2027,Apr-2008,0.29,West,50.6
+2028,May-2008,0.73,West,58.6
+2029,Jun-2008,0.12,West,68.8
+2030,Jul-2008,0.22,West,75.6
+2031,Aug-2008,0.14,West,75.2
+2032,Sep-2008,0.08,West,68.5
+2033,Oct-2008,0.56,West,57.8
+2034,Nov-2008,1.88,West,50.0
+2035,Dec-2008,2.26,West,37.1
+2036,Jan-2009,1.1,West,41.7
+2037,Feb-2009,3.2,West,41.2
+2038,Mar-2009,1.6,West,45.4
+2039,Apr-2009,0.77,West,50.9
+2040,May-2009,0.98,West,64.2
+2041,Jun-2009,1.11,West,65.4
+2042,Jul-2009,0.19,West,76.1
+2043,Aug-2009,0.21,West,73.0
+2044,Sep-2009,0.11,West,70.4
+2045,Oct-2009,1.54,West,53.9
+2046,Nov-2009,0.66,West,46.7
+2047,Dec-2009,2.35,West,35.3
+2048,Jan-2010,4.4,West,40.1
+2049,Feb-2010,2.57,West,42.3
+2050,Mar-2010,1.68,West,45.3
+2051,Apr-2010,2.57,West,48.1
+2052,May-2010,1.07,West,53.7
+2053,Jun-2010,0.24,West,67.4
+2054,Jul-2010,0.19,West,75.3
+2055,Aug-2010,0.16,West,72.0
+2056,Sep-2010,0.21,West,67.8
+2057,Oct-2010,2.68,West,57.4
+2058,Nov-2010,2.02,West,44.0
+2059,Dec-2010,5.95,West,41.6
+2060,Jan-2011,0.87,West,40.1
+2061,Feb-2011,2.3,West,39.1
+2062,Mar-2011,4.42,West,45.4
+2063,Apr-2011,1.15,West,49.7
+2064,May-2011,1.47,West,54.8
+2065,Jun-2011,0.77,West,65.0
+2066,Jul-2011,0.34,West,73.3
+2067,Aug-2011,0.16,West,74.0
+2068,Sep-2011,0.36,West,69.5
+2069,Oct-2011,1.29,West,57.7
+2070,Nov-2011,1.15,West,43.8
+2071,Dec-2011,0.32,West,37.9
+2072,Jan-2012,2.22,West,41.8
+2073,Feb-2012,0.94,West,41.6
+2074,Mar-2012,3.2,West,46.2
+2075,Apr-2012,1.73,West,53.4
+2076,May-2012,0.24,West,61.5
+2077,Jun-2012,0.23,West,68.0
+2078,Jul-2012,0.51,West,74.3
+2079,Aug-2012,0.59,West,76.3
+2080,Sep-2012,0.28,West,70.2
+2081,Oct-2012,0.86,West,58.6
+2082,Nov-2012,2.29,West,48.8
+2083,Dec-2012,4.36,West,38.2
+2084,Jan-2013,0.98,West,35.5
+2085,Feb-2013,0.5,West,40.4
+2086,Mar-2013,0.96,West,50.0
+2087,Apr-2013,0.63,West,54.2
+2088,May-2013,0.65,West,60.8
+2089,Jun-2013,0.27,West,70.8
+2090,Jul-2013,0.48,West,77.3
+2091,Aug-2013,0.44,West,73.3
+2092,Sep-2013,1.03,West,66.5
+2093,Oct-2013,0.39,West,54.2
+2094,Nov-2013,0.88,West,47.7
+2095,Dec-2013,0.52,West,37.6
+2096,Jan-2014,0.53,West,44.8
+2097,Feb-2014,2.86,West,45.4
+2098,Mar-2014,2.35,West,49.3
+2099,Apr-2014,0.9,West,54.1
+2100,May-2014,0.54,West,61.6
+2101,Jun-2014,0.08,West,69.8
+2102,Jul-2014,0.45,West,77.4
+2103,Aug-2014,0.88,West,72.7
+2104,Sep-2014,0.91,West,69.5
+2105,Oct-2014,0.67,West,60.7
+2106,Nov-2014,1.38,West,48.3
+2107,Dec-2014,4.25,West,42.2
+2108,Jan-2015,0.59,West,44.2
+2109,Feb-2015,1.92,West,48.9
+2110,Mar-2015,0.62,West,53.1
+2111,Apr-2015,0.91,West,53.0
+2112,May-2015,1.42,West,58.6
+2113,Jun-2015,0.36,West,73.0
+2114,Jul-2015,0.89,West,73.3
+2115,Aug-2015,0.25,West,74.9
+2116,Sep-2015,0.33,West,69.6
+2117,Oct-2015,1.28,West,61.4
+2118,Nov-2015,1.63,West,42.8
+2119,Dec-2015,3.31,West,37.5
+2120,Jan-2016,4.47,West,39.0
+2121,Feb-2016,0.91,West,46.1
+2122,Mar-2016,3.28,West,49.1
+2123,Apr-2016,1.55,West,54.7
+2124,May-2016,0.86,West,59.3
+2125,Jun-2016,0.34,West,71.9
+2126,Jul-2016,0.12,West,75.5
+2127,Aug-2016,0.17,West,74.5
+2128,Sep-2016,0.31,West,66.5
+2129,Oct-2016,2.81,West,57.5
+2130,Nov-2016,1.47,West,48.8
+2131,Dec-2016,3.45,West,38.1
+2132,Jan-2017,7.02,West,36.8
+2133,Feb-2017,5.31,West,43.5
+2134,Mar-2017,1.9,West,50.2
+2135,Apr-2017,2.08,West,52.1
+2136,May-2017,0.47,West,60.8
+2137,Jun-2017,0.37,West,71.1
+2138,Jul-2017,0.31,West,77.7
+2139,Aug-2017,0.42,West,76.1
+2140,Sep-2017,0.65,West,66.5
+2141,Oct-2017,0.27,West,57.2
+2142,Nov-2017,2.11,West,49.7
+2143,Dec-2017,0.26,West,42.2
+2144,Jan-2018,2.35,West,44.6
+2145,Feb-2018,0.51,West,41.2
+2146,Mar-2018,3.68,West,45.1
+2147,Apr-2018,1.61,West,54.2
+2148,May-2018,1.0,West,60.8
+2149,Jun-2018,0.1,West,69.9
+2150,Jul-2018,0.42,West,78.5
+2151,Aug-2018,0.11,West,75.1
+2152,Sep-2018,0.05,West,68.6
+2153,Oct-2018,0.86,West,56.6
+2154,Nov-2018,1.98,West,47.1
+2155,Dec-2018,1.79,West,39.5
+2156,Jan-2019,3.62,West,41.1
+2157,Feb-2019,6.03,West,36.2
+2158,Mar-2019,3.25,West,45.2
+2159,Apr-2019,1.23,West,54.9
+2160,May-2019,2.54,West,55.7
+2161,Jun-2019,0.18,West,68.3
+2162,Jul-2019,0.16,West,74.4
+2163,Aug-2019,0.15,West,75.2
+2164,Sep-2019,0.69,West,65.9
+2165,Oct-2019,0.14,West,53.3
+2166,Nov-2019,1.35,West,48.3
+2167,Dec-2019,3.46,West,39.8
+2168,Jan-2020,1.5,West,41.2
